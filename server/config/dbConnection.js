@@ -4,15 +4,11 @@ mongoose.set("strictQuery", false);
 
 let isConnected = false; // Define isConnected at the module level
 
-const connectDb = async (dbName) => {
+const connectDb = async () => {
     try {
-        if (!dbName) {
-            throw new Error('Database name is not provided');
-        }
-
-        const connectionUrl = process.env[`${dbName}_CONNECTION_STRING`];
+        const connectionUrl = process.env[`CONNECTION_STRING`];
         if (!connectionUrl) {
-            throw new Error(`Connection string not found for database: ${dbName}`);
+            throw new Error(`Connection string not found for database:`);
         }
 
         const connect = await mongoose.connect(connectionUrl, {
@@ -21,7 +17,7 @@ const connectDb = async (dbName) => {
         });
 
         isConnected = true; // Set isConnected to true upon successful connection
-        console.log(`Connected to ${dbName} database.`);
+        console.log(`Connected to  ${connect} database.`);
 
     } catch (err) {
         console.log(err);
