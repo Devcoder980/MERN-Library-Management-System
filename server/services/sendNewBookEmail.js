@@ -4,9 +4,9 @@ const HTML_TEMPLATE = require('./templates/new_book_template');
 async function sendNewBookEmail(users, book) {
     const fs = require('fs');
 
-    // Read the image file as a buffer
-    const frontImageBuffer = fs.readFileSync(`C:/Users/shivani/Desktop/full stack/MERN-Library-Management-System/server/uploads/${book.images[0]}`);
-    const backImageBuffer = fs.readFileSync(`C:/Users/shivani/Desktop/full stack/MERN-Library-Management-System/server/uploads/${book.images[0]}`);
+    // // Read the image file as a buffer
+    // const frontImageBuffer = fs.readFileSync(`C:/Users/shivani/Desktop/full stack/MERN-Library-Management-System/server/uploads/${book.images[0]}`);
+    // const backImageBuffer = fs.readFileSync(`C:/Users/shivani/Desktop/full stack/MERN-Library-Management-System/server/uploads/${book.images[0]}`);
 
 
     try {
@@ -16,7 +16,7 @@ async function sendNewBookEmail(users, book) {
                 to: user.email,
                 subject: "New Book Notification",
                 text: `Dear ${user.name}, A new book titled "${book.title}" has been added to our library.`,
-                html: HTML_TEMPLATE(user.name, book, frontImageBuffer, backImageBuffer), // Pass user name and book details to the HTML template function
+                html: HTML_TEMPLATE(user.name, book,), // Pass user name and book details to the HTML template function
                 // attachments: [ // Include images as attachments
                 //     {
                 //         filename: 'front-cover.jpg',

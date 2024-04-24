@@ -39,8 +39,7 @@ module.exports = router;
 
 router.post('/send-purchase-notification-email', asyncHandler(async (req, res) => {
     try {
-        const emailAddresses = await User.find({}, { email: 1, _id: 0 });
-        const users = emailAddresses.map(emailObj => emailObj.email);
+        const order=req.params.orderId;
         await sendPurchaseNotificationEmail(users);
         res.status(200).json({ message: 'Purchase notification emails sent successfully' });
     } catch (error) {

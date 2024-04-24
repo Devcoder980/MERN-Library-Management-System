@@ -1,7 +1,7 @@
-const newBook = (name, book, frontImageBuffer, backImageBuffer) => {
-    // Convert the buffer to base64 string
-    const frontImageData = frontImageBuffer.toString('base64');
-    const backImageData = backImageBuffer.toString('base64');
+const newBook = (name, book) => {
+    // // Convert the buffer to base64 string
+    // const frontImageData = frontImageBuffer.toString('base64');
+    // const backImageData = backImageBuffer.toString('base64');
 
     const imgStyle = `display: flex; width: 24rem; justify-content: center; align-items: center; position: relative;`;
     const frontImgStyle = `width: 8rem; z-index: 1;`;
@@ -39,9 +39,9 @@ const newBook = (name, book, frontImageBuffer, backImageBuffer) => {
 
         <div style="${containerStyle}">
             <div style="${imgStyle}" id="img">
-                <img align="center" src="data:image/jpeg;base64,${frontImageData}" alt="Book Cover" class="card-img-top front" style="${frontImgStyle}">
-                <img align="center" src="data:image/jpeg;base64,${backImageData}" alt="Book Cover" class="card-img-top back" style="${backImgStyle}">
-            </div>
+                <img align="center" src="https://mern-library-management-system.onrender.com/api/v1/download/${book.images[0]}" alt="Book Cover" class="card-img-top front" style="${frontImgStyle}">
+                <img align="center" src="https://mern-library-management-system.onrender.com/api/v1/download/${book.images[0]}" alt="Book Cover" class="card-img-top front" style="${frontImgStyle}">
+                </div>
         </div>
 
         <div style="${containerStyle}" class="card-body">
