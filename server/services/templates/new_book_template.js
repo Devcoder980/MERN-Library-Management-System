@@ -8,7 +8,7 @@ const newBook = (name, book, frontImageBuffer, backImageBuffer) => {
 <img src="data:image/jpeg;base64,${backImageData}" alt="Book Cover" class="card-img-top back">
 </div>`;
 
-    console.log(a);
+
     return `
     <!DOCTYPE html>
 <html lang="en">
@@ -24,15 +24,12 @@ const newBook = (name, book, frontImageBuffer, backImageBuffer) => {
             line-height: 1.6;
             color: #333;
         }
-
-
         .container {
             max-width: 800px;
             margin: 0 auto;
             text-align: center;
             padding: 20px;
         }
-
         .highlight {
             color: #4a86e8;
         }
@@ -74,40 +71,36 @@ const newBook = (name, book, frontImageBuffer, backImageBuffer) => {
             font-size: 14px;
         }
 
-        #img {
+
+     
+        .imga{
             display: flex;
+            width: 24rem;
             justify-content: center;
+            align-items: center;
             position: relative;
-            /* add this */
         }
 
-        #img>img {
+        .imga>img {
             width: 8rem;
         }
 
         .front {
             z-index: 1;
-            /* add this */
         }
 
         .back {
             transform: rotate(20deg);
-            /* add this */
             position: absolute;
-            /* add this */
             top: 1rem;
-            /* adjust the top position to your liking */
             left: 50%;
-            /* center the image horizontally */
             transform-origin: top center;
-            /* rotate from the top center */
             z-index: 0;
-            /* add this */
         }
 
         /* Media queries for adjusting image size */
         @media only screen and (min-width: 768px) {
-            #img>img {
+            .imga>img {
                 width: 12rem;
             }
         }
@@ -134,14 +127,12 @@ const newBook = (name, book, frontImageBuffer, backImageBuffer) => {
             We're excited to announce the arrival of a new book at
             <span class="highlight">BookSaga!</span>
         </p>
+
         <div class="card">
-        ${a}
-        <h1>HEllo</h1>
-        <div id="hello">
-        <img src="data:image/jpeg;base64,${frontImageData}" alt="Book Cover" class="card-img-top front">
-        <img src="http://localhost:5000/api/v1/download/images_1713941556656.png" alt="Book Cover" class="card-img-top back">
-               
-             </div>
+ 
+        <div id="img" class="imga">      
+            <img src="https://rukminim2.flixcart.com/image/832/832/l3vxbbk0/book/w/r/e/do-epic-shit-original-imagewkzqvsxfyg4.jpeg?q=70&crop=false" alt="Book Cover" class="card-img-top front">
+       </div>
              
            
      

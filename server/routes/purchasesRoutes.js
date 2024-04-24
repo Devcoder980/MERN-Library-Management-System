@@ -1,9 +1,9 @@
 const express = require('express');
 const router = express.Router();
 const asyncHandler = require('express-async-handler');
-const Purchase = require('../models/purchase');
-const Book = require('../models/Book'); // Import the Book model
-const { verifyToken } = require('../middleware/authMiddleware');
+const Purchase = require('../models/purchase.js');
+const Book = require('../models/Book.js'); // Import the Book model
+const { verifyToken } = require('../middleware/authMiddleware.js');
 // CREATE: Route to add a new purchase
 router.post('/purchases', verifyToken, asyncHandler(async (req, res) => {
     try {

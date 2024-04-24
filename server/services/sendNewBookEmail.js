@@ -17,18 +17,18 @@ async function sendNewBookEmail(users, book) {
                 subject: "New Book Notification",
                 text: `Dear ${user.name}, A new book titled "${book.title}" has been added to our library.`,
                 html: HTML_TEMPLATE(user.name, book, frontImageBuffer, backImageBuffer), // Pass user name and book details to the HTML template function
-                attachments: [ // Include images as attachments
-                    {
-                        filename: 'front-cover.jpg',
-                        content: frontImageBuffer,
-                        contentType: 'image/jpeg',
-                    },
-                    {
-                        filename: 'back-cover.jpg',
-                        content: backImageBuffer,
-                        contentType: 'image/jpeg',
-                    },
-                ],
+                // attachments: [ // Include images as attachments
+                //     {
+                //         filename: 'front-cover.jpg',
+                //         content: frontImageBuffer,
+                //         contentType: 'image/jpeg',
+                //     },
+                //     {
+                //         filename: 'back-cover.jpg',
+                //         content: backImageBuffer,
+                //         contentType: 'image/jpeg',
+                //     },
+                // ],
             };
 
             const info = await transporter.sendMail(mailOptions);
