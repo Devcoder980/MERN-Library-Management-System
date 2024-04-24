@@ -3,9 +3,9 @@ const express = require('express');
 const cors = require('cors');
 const dotenv = require('dotenv').config();
 const { connectDb } = require('./config/dbConnection');
-const errorHandler = require('./Middleware/errorHandler');
+const errorHandler = require('./middleware/errorHandler');
 // Import the proxy configuration
-const proxy = require('./Middleware/proxy');
+const proxy = require('./middleware/proxy');
 
 const app = express();
 connectDb();
