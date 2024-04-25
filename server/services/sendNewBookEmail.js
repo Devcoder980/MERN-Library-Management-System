@@ -1,13 +1,12 @@
 const { transporter } = require('../config/transporter');
 const HTML_TEMPLATE = require('./templates/new_book_template');
+const fs = require('fs');
 
 async function sendNewBookEmail(users, book) {
-    const fs = require('fs');
 
     // // Read the image file as a buffer
     // const frontImageBuffer = fs.readFileSync(`C:/Users/shivani/Desktop/full stack/MERN-Library-Management-System/server/uploads/${book.images[0]}`);
     // const backImageBuffer = fs.readFileSync(`C:/Users/shivani/Desktop/full stack/MERN-Library-Management-System/server/uploads/${book.images[0]}`);
-
 
     try {
         for (const user of users) {

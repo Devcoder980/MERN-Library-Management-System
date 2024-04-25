@@ -25,7 +25,7 @@ const bookSchema = new mongoose.Schema({
         type: String,
         enum: ['Hindi', 'English']
     },
-    category:String,
+    category: String,
     pages: Number,
     binding: String,
     publisher: String,
@@ -39,7 +39,9 @@ const bookSchema = new mongoose.Schema({
         author: String,
         author_info: String
     }],
-    images: [String]
+    images: [String],
+    frontImg: String,
+    backImg: String,
 });
 
 // Define model for Books Collection
