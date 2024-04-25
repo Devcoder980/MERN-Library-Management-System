@@ -194,7 +194,6 @@ router.get('/download/:filename', (req, res) => {
 
     res.download(filePath, (err) => {
         if (err) {
-            console.error(err);
             res.status(500).json({ message: 'File download failed' });
         }
     });

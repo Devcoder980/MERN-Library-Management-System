@@ -7,7 +7,7 @@ const User = require('../models/User');
 const { secret, expiresIn } = require('../config/jwt.config');
 const { route } = require('./booksRoutes');
 const router = express.Router();
-// User Registration
+
 // User Registration
 router.post('/register', asyncHandler(async (req, res) => {
     try {
@@ -42,22 +42,18 @@ router.post('/login', asyncHandler(async (req, res) => {
     try {
         const { email, password } = req.body;
         // Find the user by email
-
         const user = await User.findOne({ email });
-
         if (!user) {
             return res.status(404).json({ error: 'User not found' });
         }
         // Compare the password
         const passwordMatch = await bcrypt.compare(password, user.password);
-
         if (!passwordMatch) {
             return res.status(401).json({ error: 'Invalid password' });
         }
         // Generate JWT token
         const token = jwt.sign({ userId: user._id, email: user.email }, secret, { expiresIn });
         res.status(200).json({ token });
-
     } catch (error) {
         console.error(error);
         res.status(500).json({ error: 'Internal server error' });
@@ -81,9 +77,10 @@ function verifyToken(req, res, next) {
 }
 
 // Example protected route
-router.get('/profile', verifyToken, async (req, res) => {
+router.get('/profile/:userId', verifyToken, async (req, res) => {
     try {
-        const user = await User.findById(req.userId);
+        const userId=req.params.userId;
+        const user = await User.findById({_id: userId});
         if (!user) {
             return res.status(404).json({ error: 'User not found' });
         }

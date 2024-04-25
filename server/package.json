@@ -4,15 +4,19 @@
     "description": "mern library management system",
     "main": "server.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "mocha",
         "start": "node server.js",
         "dev": "nodemon server.js"
+        
     },
+    "keywords": [
+        "mocha",
+        "chai"
+      ],
     "author": "prabhudev bind",
     "license": "MIT",
     "dependencies": {
         "bcrypt": "^5.1.1",
-        "chai": "^5.1.0",
         "cors": "^2.8.5",
         "csv-parser": "^3.0.0",
         "csv-writer": "^1.6.0",
@@ -24,7 +28,6 @@
         "handlebars": "^4.7.8",
         "http-proxy-middleware": "^2.0.6",
         "jsonwebtoken": "^9.0.1",
-        "mocha": "^10.4.0",
         "mongoose": "^5.13.16",
         "moongoose": "^0.0.5",
         "multer": "^1.4.5-lts.1",
@@ -35,6 +38,11 @@
         "uuid": "^9.0.1"
     },
     "devDependencies": {
-        "nodemon": "^2.0.21"
+        "chai": "^4.1.0",
+        "chai-http": "^4.4.0",
+        "mocha": "^8.4.0",
+        "nodemon": "^2.0.21",
+        "faker": "^4.1.0",
+        "sinon": "^15.0.1"
     }
 }

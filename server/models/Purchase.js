@@ -7,10 +7,20 @@ const purchaseSchema = new mongoose.Schema({
         required: true
     },
     books: [{
+
         book: {
             type: mongoose.Schema.Types.ObjectId,
             ref: 'Book', // Reference to the Book model
             required: true,
+        },
+        // New fields to store book details
+        bookTitle: {
+            type: String,
+            required: true
+        },
+        authorName: {
+            type: String,
+            required: true
         },
         units: {
             type: Number,

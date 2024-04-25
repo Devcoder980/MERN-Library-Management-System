@@ -1,5 +1,5 @@
 const receiptMail = (text) => {
-    return `<!DOCTYPE html>
+  return `<!DOCTYPE html>
     <html>
     <head>
       <title>BookSaga - Purchase Confirmation</title>
