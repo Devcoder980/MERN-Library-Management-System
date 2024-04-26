@@ -40,6 +40,27 @@ router.put('/books/:isbn/images', upload.array('images', 5), async (req, res) =>
     }
 });
 
+// Endpoint for uploading images for a particular book
+router.put('/books/:isbn/images/front', upload('front'), async (req, res) => {
+    try {
+        const { isbn } = req.params;
+        const book = await Book.findOne({ isbn });
+
+        if (!book) {
+            return res.status(404).json({ error: 'Book not found' });
+        }
+
+        const uploadedImages = req.files.map(file => file.filename); // Get the filenames of uploaded images
+        book.frontImg = uploadedImages[0]; // Assuming only one image is uploaded for the front page
+        await book.save();
+
+        res.status(201).json({ message: 'Image added to the book successfully', image: uploadedImages[0] });
+
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+});
 
 
 

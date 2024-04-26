@@ -1,0 +1,6067 @@
+[
+    {
+        "id": "crc",
+        "name": "CRC",
+        "slug": "cr",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "gicoil",
+        "name": "GI Coil",
+        "slug": "gi-coi",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "gpcoil",
+        "name": "GP Coil",
+        "slug": "gp-coi",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "hrplate",
+        "name": "HR Plate",
+        "slug": "hr-plat",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "hrstrips",
+        "name": "HR Strips",
+        "slug": "hr-strip",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Thickness",
+            "productType": "Dimension"
+        }
+    },
+    {
+        "id": "hrc",
+        "name": "HRC",
+        "slug": "hr",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "pmplate",
+        "name": "PM Plate",
+        "slug": "pm-plat",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "ppgi",
+        "name": "PPGI",
+        "slug": "ppg",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "ppgl",
+        "name": "PPGL",
+        "slug": "ppg",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "bindingwire",
+        "name": "Binding Wire",
+        "slug": "binding-wir",
+        "productGroup": "Long Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "hbwire",
+        "name": "HB Wire",
+        "slug": "hb-wir",
+        "productGroup": "Long Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "hrpo",
+        "name": "HRPO",
+        "slug": "hrp",
+        "productGroup": "Long Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "primarytmt",
+        "name": "Primary TMT",
+        "slug": "primary-tm",
+        "productGroup": "Long Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "roundbar",
+        "name": "Round Bar",
+        "slug": "round-ba",
+        "productGroup": "Long Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Grade",
+            "productType": "Dimension"
+        }
+    },
+    {
+        "id": "secondarytmt",
+        "name": "Secondary TMT",
+        "slug": "secondary-tm",
+        "productGroup": "Long Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "tmtrebarinternational",
+        "name": "TMT Rebar International",
+        "slug": "tmt-rebar-internationa",
+        "productGroup": "Long Products",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Dimension"
+        }
+    },
+    {
+        "id": "wirerod",
+        "name": "Wire Rod",
+        "slug": "wire-ro",
+        "productGroup": "Long Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension"
+        }
+    },
+    {
+        "id": "angle",
+        "name": "Angle",
+        "slug": "angl",
+        "productGroup": "Structure",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Grade",
+            "productType": "Size"
+        }
+    },
+    {
+        "id": "beam",
+        "name": "Beam",
+        "slug": "bea",
+        "productGroup": "Structure",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Grade",
+            "productType": "Size"
+        }
+    },
+    {
+        "id": "channel",
+        "name": "Channel",
+        "slug": "channe",
+        "productGroup": "Structure",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Grade",
+            "productType": "Size"
+        }
+    },
+    {
+        "id": "heavystructure",
+        "name": "Heavy Structure",
+        "slug": "heavy-structur",
+        "productGroup": "Structure",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "msflats",
+        "name": "MS Flats",
+        "slug": "ms-flat",
+        "productGroup": "Structure",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Type",
+            "productType": "Size"
+        }
+    },
+    {
+        "id": "msbillets",
+        "name": "MS Billets",
+        "slug": "ms-billet",
+        "productGroup": "Semi-Finished",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Type",
+            "productType": "Size"
+        }
+    },
+    {
+        "id": "msingot",
+        "name": "MS Ingot",
+        "slug": "ms-ingo",
+        "productGroup": "Semi-Finished",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Type",
+            "productType": "Dimension"
+        }
+    },
+    {
+        "id": "crsheet",
+        "name": "CR Sheet",
+        "slug": "cr-shee",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "mserwpipe",
+        "name": "MS ERW Pipe",
+        "slug": "ms-erw-pip",
+        "productGroup": "Pipe",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dimension"
+        }
+    },
+    {
+        "id": "lmehrc",
+        "name": "LME:HRC",
+        "slug": "lme-hr",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "lmesteelhrc",
+        "name": "LME:Steel HRC",
+        "slug": "lme-steel-hr",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "lmesteelrebar",
+        "name": "LME:Steel Rebar",
+        "slug": "lme-steel-reba",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexsteellong",
+        "name": "NCDEX:Steel Long",
+        "slug": "ncdex-steel-lon",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfehrc",
+        "name": "SHFE:HRC",
+        "slug": "shfe-hr",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfesteelrebar",
+        "name": "SHFE:Steel Rebar",
+        "slug": "shfe-steel-reba",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfesteelwirerod",
+        "name": "SHFE:Steel Wire Rod",
+        "slug": "shfe-steel-wire-ro",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "nonferrous",
+        "name": "Non Ferrous",
+        "slug": "non-ferrou",
+        "productGroup": "Long Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Purity",
+            "productType": "Grade"
+        }
+    },
+    [
+        {
+            "id": "brass",
+            "name": "Brass",
+            "slug": "brass",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {}
+        },
+        {
+            "id": "brasshoney",
+            "name": "Brass Honey",
+            "slug": "brass-honey",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "coppercathode",
+            "name": "Copper Cathode",
+            "slug": "copper-cathode",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Purity"
+            }
+        },
+        {
+            "id": "copperrod",
+            "name": "Copper Rod",
+            "slug": "copper-rod",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Purity",
+                "productType": "Dimension"
+            }
+        },
+        {
+            "id": "copperwire",
+            "name": "Copper Wire",
+            "slug": "copper-wire",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Dimension"
+            }
+        },
+        {
+            "id": "gunmetal",
+            "name": "Gun Metal",
+            "slug": "gun-metal",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {}
+        },
+        {
+            "id": "nickelcathode",
+            "name": "Nickel Cathode",
+            "slug": "nickel-cathode",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Purity",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "zincwire",
+            "name": "Zinc Wire",
+            "slug": "zinc-wire",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Thickness"
+            }
+        },
+        {
+            "id": "aluminiumalloyingot",
+            "name": "Aluminium Alloy Ingot",
+            "slug": "aluminium-alloy-ingot",
+            "productGroup": "Semi-Finished",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Purity",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "aluminiumingot",
+            "name": "Aluminium Ingot",
+            "slug": "aluminium-ingot",
+            "productGroup": "Semi-Finished",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Purity",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "leadingot",
+            "name": "Lead Ingot",
+            "slug": "lead-ingot",
+            "productGroup": "Semi-Finished",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Purity",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "tiningot",
+            "name": "Tin Ingot",
+            "slug": "tin-ingot",
+            "productGroup": "Semi-Finished",
+            "pricingAttributeAliasNameMap": {}
+        },
+        {
+            "id": "zincingot",
+            "name": "Zinc Ingot",
+            "slug": "zinc-ingot",
+            "productGroup": "Semi-Finished",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Purity",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "comexcopperhighgrade",
+            "name": "COMEX:Copper High Grade",
+            "slug": "comex-copper-high-grade",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "lmealuminium",
+            "name": "LME:Aluminium",
+            "slug": "lme-aluminium",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "lmecobalt",
+            "name": "LME:Cobalt",
+            "slug": "lme-cobalt",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "lmecopper",
+            "name": "LME:Copper",
+            "slug": "lme-copper",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "lmelead",
+            "name": "LME:Lead",
+            "slug": "lme-lead",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "lmelithiumhydroxide",
+            "name": "LME:Lithium Hydroxide",
+            "slug": "lme-lithium-hydroxide",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "lmenickel",
+            "name": "LME:Nickel",
+            "slug": "lme-nickel",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "lmetin",
+            "name": "LME:Tin",
+            "slug": "lme-tin",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "lmezinc",
+            "name": "LME:Zinc",
+            "slug": "lme-zinc",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "mcxaluminium",
+            "name": "MCX:Aluminium",
+            "slug": "mcx-aluminium",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "mcxcopper",
+            "name": "MCX:Copper",
+            "slug": "mcx-copper",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "mcxlead",
+            "name": "MCX:Lead",
+            "slug": "mcx-lead",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "mcxnickel",
+            "name": "MCX:Nickel",
+            "slug": "mcx-nickel",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "mcxzinc",
+            "name": "MCX:Zinc",
+            "slug": "mcx-zinc",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfealuminium",
+            "name": "SHFE:Aluminium",
+            "slug": "shfe-aluminium",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfealuminiumoxide",
+            "name": "SHFE:Aluminium Oxide",
+            "slug": "shfe-aluminium-oxide",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfecopper",
+            "name": "SHFE:Copper",
+            "slug": "shfe-copper",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfecopperbc",
+            "name": "SHFE:Copper BC",
+            "slug": "shfe-copper-bc",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfelead",
+            "name": "SHFE:Lead",
+            "slug": "shfe-lead",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfenickel",
+            "name": "SHFE:Nickel",
+            "slug": "shfe-nickel",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfetin",
+            "name": "SHFE:Tin",
+            "slug": "shfe-tin",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfezinc",
+            "name": "SHFE:Zinc",
+            "slug": "shfe-zinc",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        }
+    ],
+    {
+        "id": "polymers_packaging",
+        "name": "Polymers & Packaging",
+        "slug": "polymers-packagin",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Color"
+        }
+    },
+    {
+        "id": "cpvc",
+        "name": "CPVC",
+        "slug": "cpvc",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "eva",
+        "name": "EVA",
+        "slug": "eva",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Type",
+            "productType": "Composition"
+        }
+    },
+    {
+        "id": "hdpe",
+        "name": "HDPE",
+        "slug": "hdpe",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ldpe",
+        "name": "LDPE",
+        "slug": "ldpe",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "lldpe",
+        "name": "LLDPE",
+        "slug": "lldpe",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "mdpe",
+        "name": "MDPE",
+        "slug": "mdpe",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ppcp",
+        "name": "PPCP",
+        "slug": "ppcp",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "pphp",
+        "name": "PPHP",
+        "slug": "pphp",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "pvc",
+        "name": "PVC",
+        "slug": "pvc",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "gpps",
+        "name": "GPPS",
+        "slug": "gpps",
+        "productGroup": "Engineering",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "hips",
+        "name": "HIPS",
+        "slug": "hips",
+        "productGroup": "Engineering",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "nylon6",
+        "name": "NYLON6",
+        "slug": "nylon6",
+        "productGroup": "Engineering",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "pet",
+        "name": "PET",
+        "slug": "pet",
+        "productGroup": "Engineering",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "bopp",
+        "name": "BOPP",
+        "slug": "bopp",
+        "productGroup": "Film",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "goldenyellowkraftpaper",
+        "name": "Golden Yellow Kraft Paper",
+        "slug": "golden-yellow-kraft-paper",
+        "productGroup": "Paper",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "naturalkraftpaper",
+        "name": "Natural Kraft Paper",
+        "slug": "natural-kraft-paper",
+        "productGroup": "Paper",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "hdpepipe",
+        "name": "HDPE Pipe",
+        "slug": "hdpe-pipe",
+        "productGroup": "Pipe",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "pvcpipe",
+        "name": "PVC Pipe",
+        "slug": "pvc-pipe",
+        "productGroup": "Pipe",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "cmelumber",
+        "name": "CME:Lumber",
+        "slug": "cme-lumber",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dceblockboard",
+        "name": "DCE:Block Board",
+        "slug": "dce-block-board",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dcefibreboard",
+        "name": "DCE:Fibre Board",
+        "slug": "dce-fibre-board",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dcelldpe",
+        "name": "DCE:LLDPE",
+        "slug": "dce-lldpe",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dcepp",
+        "name": "DCE:PP",
+        "slug": "dce-pp",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dcepvc",
+        "name": "DCE:PVC",
+        "slug": "dce-pvc",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "feedstockacn",
+        "name": "Feedstock:ACN",
+        "slug": "feedstock-acn",
+        "productGroup": "Feedstock",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "feedstockedc",
+        "name": "Feedstock:EDC",
+        "slug": "feedstock-edc",
+        "productGroup": "Feedstock",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "feedstockethylene",
+        "name": "Feedstock:Ethylene",
+        "slug": "feedstock-ethylene",
+        "productGroup": "Feedstock",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "feedstockmeg",
+        "name": "Feedstock:MEG",
+        "slug": "feedstock-meg",
+        "productGroup": "Feedstock",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "feedstocknaphtha",
+        "name": "Feedstock:Naphtha",
+        "slug": "feedstock-naphtha",
+        "productGroup": "Feedstock",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "feedstockparaxylene",
+        "name": "Feedstock:Paraxylene",
+        "slug": "feedstock-paraxylene",
+        "productGroup": "Feedstock",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "feedstockpropylene",
+        "name": "Feedstock:Propylene",
+        "slug": "feedstock-propylene",
+        "productGroup": "Feedstock",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "feedstockpurifiedterephthalicacidpta",
+        "name": "Feedstock:Purified Terephthalic Acid (PTA)",
+        "slug": "feedstock-purified-terephthalic-acid-pta",
+        "productGroup": "Feedstock",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "feedstockstyrenemonomer",
+        "name": "Feedstock:Styrene Monomer",
+        "slug": "feedstock-styrene-monomer",
+        "productGroup": "Feedstock",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "feedstockvcm",
+        "name": "Feedstock:VCM",
+        "slug": "feedstock-vcm",
+        "productGroup": "Feedstock",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfebutadienerubber",
+        "name": "SHFE:Butadiene Rubber",
+        "slug": "shfe-butadiene-rubber",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfenaturalrubber",
+        "name": "SHFE:Natural Rubber",
+        "slug": "shfe-natural-rubber",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfetsr20rubber",
+        "name": "SHFE:TSR 20 (Rubber)",
+        "slug": "shfe-tsr-20-rubber",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfewoodpulp",
+        "name": "SHFE:Woodpulp",
+        "slug": "shfe-woodpulp",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "pvcsuspension",
+        "name": "PVC Suspension",
+        "slug": "pvc-suspension",
+        "productGroup": "Commodity",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "agrochemicals",
+        "name": "Agrochemicals",
+        "slug": "agrochemical",
+        "productGroup": "Herbicides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "24deaster",
+        "name": "2,4-D Easter",
+        "slug": "2-4-d-easter",
+        "productGroup": "Herbicides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "24dsodiumsalt",
+        "name": "2,4-D Sodium Salt",
+        "slug": "2-4-d-sodium-salt",
+        "productGroup": "Herbicides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "azoxystrobin",
+        "name": "Azoxystrobin",
+        "slug": "azoxystrobin",
+        "productGroup": "Fungicides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "carbendazim",
+        "name": "Carbendazim",
+        "slug": "carbendazim",
+        "productGroup": "Fungicides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "cartap",
+        "name": "Cartap",
+        "slug": "cartap",
+        "productGroup": "Insecticides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "chlorantraniliprole",
+        "name": "Chlorantraniliprole",
+        "slug": "chlorantraniliprole",
+        "productGroup": "Insecticides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "chlorpyrifos",
+        "name": "Chlorpyrifos",
+        "slug": "chlorpyrifos",
+        "productGroup": "Insecticides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "clodinafop",
+        "name": "Clodinafop",
+        "slug": "clodinafop",
+        "productGroup": "Herbicides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "cypermethrin",
+        "name": "Cypermethrin",
+        "slug": "cypermethrin",
+        "productGroup": "Insecticides",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "difenoconazole",
+        "name": "Difenoconazole",
+        "slug": "difenoconazole",
+        "productGroup": "Fungicides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "emamectinbenzoate",
+        "name": "Emamectin Benzoate",
+        "slug": "emamectin-benzoate",
+        "productGroup": "Biopharmaceuticals",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "fipronil",
+        "name": "Fipronil",
+        "slug": "fipronil",
+        "productGroup": "Insecticides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "glyphosate",
+        "name": "Glyphosate",
+        "slug": "glyphosate",
+        "productGroup": "Herbicides",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Packaging Type",
+            "productType": "Concentration",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "hexaconazole",
+        "name": "Hexaconazole",
+        "slug": "hexaconazole",
+        "productGroup": "Fungicides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "imidacloprid",
+        "name": "Imidacloprid",
+        "slug": "imidacloprid",
+        "productGroup": "Insecticides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "mancozeb",
+        "name": "Mancozeb",
+        "slug": "mancozeb",
+        "productGroup": "Fungicides",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Packaging Type",
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "metribuzin",
+        "name": "Metribuzin",
+        "slug": "metribuzin",
+        "productGroup": "Herbicides",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Packaging Type",
+            "productType": "Concentration"
+        }
+    },
+    {
+        "id": "paraquat",
+        "name": "Paraquat",
+        "slug": "paraquat",
+        "productGroup": "Herbicides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "pendimethalin",
+        "name": "Pendimethalin",
+        "slug": "pendimethalin",
+        "productGroup": "Herbicides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "pymetrozine",
+        "name": "Pymetrozine",
+        "slug": "pymetrozine",
+        "productGroup": "Insecticides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "thiamethoxam",
+        "name": "Thiamethoxam",
+        "slug": "thiamethoxam",
+        "productGroup": "Insecticides",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Concentration",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "chemicals",
+        "name": "Chemicals",
+        "slug": "chemical",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "acetone",
+        "name": "Acetone",
+        "slug": "acetone",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Concentration"
+        }
+    },
+    {
+        "id": "butylacetate",
+        "name": "Butyl Acetate",
+        "slug": "butyl-acetate",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "c9solvent",
+        "name": "C-9 Solvent",
+        "slug": "c-9-solvent",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "cyclohexanone",
+        "name": "Cyclohexanone",
+        "slug": "cyclohexanone",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "diethyleneglycoldeg",
+        "name": "Diethylene Glycol (DEG)",
+        "slug": "diethylene-glycol-deg",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Concentration"
+        }
+    },
+    {
+        "id": "dimethylformamidedmf",
+        "name": "Dimethylformamide (DMF)",
+        "slug": "dimethylformamide-dmf",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "ethylacetate",
+        "name": "Ethyl Acetate",
+        "slug": "ethyl-acetate",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "glacialaceticacid",
+        "name": "Glacial Acetic Acid",
+        "slug": "glacial-acetic-acid",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Packaging Type",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "methanol",
+        "name": "Methanol",
+        "slug": "methanol",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "methylethylketonemek",
+        "name": "Methyl Ethyl Ketone (MEK)",
+        "slug": "methyl-ethyl-ketone-mek",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "methylisobutylketonemibk",
+        "name": "Methyl Isobutyl Ketone (MIBK)",
+        "slug": "methyl-isobutyl-ketone-mibk",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "monoethyleneglycolmeg",
+        "name": "Mono Ethylene Glycol (MEG)",
+        "slug": "mono-ethylene-glycol-meg",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "nbutanol",
+        "name": "N-Butanol",
+        "slug": "n-butanol",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "nhexane",
+        "name": "N-Hexane",
+        "slug": "n-hexane",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "phenol",
+        "name": "Phenol",
+        "slug": "phenol",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Concentration"
+        }
+    },
+    {
+        "id": "toluene",
+        "name": "Toluene",
+        "slug": "toluene",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "isopropylalcoholipa",
+        "name": "Isopropyl Alcohol (IPA)",
+        "slug": "isopropyl-alcohol-ipa",
+        "productGroup": "Alcohols",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "mpdiol",
+        "name": "MP-Diol",
+        "slug": "mp-diol",
+        "productGroup": "Alcohols",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "styrenemonomer",
+        "name": "Styrene Monomer",
+        "slug": "styrene-monomer",
+        "productGroup": "Aromatics",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "butylacrylatemonomerbam",
+        "name": "Butyl Acrylate Monomer (BAM)",
+        "slug": "butyl-acrylate-monomer-bam",
+        "productGroup": "Industrial Chemicals",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "dcecornstarch",
+        "name": "DCE:Corn Starch",
+        "slug": "dce-corn-starch",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dceethenylbenzene",
+        "name": "DCE:Ethenylbenzene",
+        "slug": "dce-ethenylbenzene",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dceethyleneglycol",
+        "name": "DCE:Ethylene Glycol",
+        "slug": "dce-ethylene-glycol",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "mcxmenthaoil",
+        "name": "MCX:Mentha Oil",
+        "slug": "mcx-mentha-oil",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "maleicanhydride",
+        "name": "Maleic Anhydride",
+        "slug": "maleic-anhydride",
+        "productGroup": "Intermediates",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Concentration"
+        }
+    },
+    {
+        "id": "melamine",
+        "name": "Melamine",
+        "slug": "melamine",
+        "productGroup": "Intermediates",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Grade",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "mixxylenemx",
+        "name": "Mix Xylene (MX)",
+        "slug": "mix-xylene-mx",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Concentration",
+            "productType": "Grade",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "orthoxyleneox",
+        "name": "Orthoxylene (OX)",
+        "slug": "orthoxylene-ox",
+        "productGroup": "Solvents",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "phthalicanhydride",
+        "name": "Phthalic Anhydride",
+        "slug": "phthalic-anhydride",
+        "productGroup": "Monomers",
+        "pricingAttributeAliasNameMap": {
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "tgurea",
+        "name": "TG Urea",
+        "slug": "tg-urea",
+        "productGroup": "Intermediates",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "tetrahydrofuranthf",
+        "name": "Tetrahydrofuran (THF)",
+        "slug": "tetrahydrofuran-thf",
+        "productGroup": "Coating raw materials",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Concentration",
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "vinylacetatemonomervam",
+        "name": "Vinyl Acetate Monomer (VAM)",
+        "slug": "vinyl-acetate-monomer-vam",
+        "productGroup": "Methanol & Downstream",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "energy_petroleum",
+        "name": "Energy & Petroleum",
+        "slug": "energy-petroleu",
+        "productGroup": "Black Oil",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "bitumen",
+        "name": "Bitumen",
+        "slug": "bitumen",
+        "productGroup": "Black Oil",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Grade",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "emulsion",
+        "name": "Emulsion",
+        "slug": "emulsion",
+        "productGroup": "Black Oil",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Grade",
+            "remarks": "Packaging Type"
+        }
+    },
+    {
+        "id": "diesel",
+        "name": "Diesel",
+        "slug": "diesel",
+        "productGroup": "White Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "petrol",
+        "name": "Petrol",
+        "slug": "petrol",
+        "productGroup": "White Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "autogas",
+        "name": "Autogas",
+        "slug": "autogas",
+        "productGroup": "Gas",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "cng",
+        "name": "CNG",
+        "slug": "cng",
+        "productGroup": "Gas",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "lpg",
+        "name": "LPG",
+        "slug": "lpg",
+        "productGroup": "Gas",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "dcelpg",
+        "name": "DCE:LPG",
+        "slug": "dce-lpg",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "mcxcrudeoil",
+        "name": "MCX:Crude Oil",
+        "slug": "mcx-crude-oil",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "mcxnaturalgas",
+        "name": "MCX:Natural Gas",
+        "slug": "mcx-natural-gas",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "nymexbrentcrudeoil",
+        "name": "NYMEX:Brent Crude Oil",
+        "slug": "nymex-brent-crude-oil",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfebitumen",
+        "name": "SHFE:Bitumen",
+        "slug": "shfe-bitumen",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfecrudeoil",
+        "name": "SHFE:Crude Oil",
+        "slug": "shfe-crude-oil",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfefueloil",
+        "name": "SHFE:Fuel Oil",
+        "slug": "shfe-fuel-oil",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfelsfofueloil",
+        "name": "SHFE:LSFO (Fuel Oil)",
+        "slug": "shfe-lsfo-fuel-oil",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "stainlesssteel",
+        "name": "Stainless Steel",
+        "slug": "stainless-stee",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "201sscrwide",
+        "name": "201 SS CR Wide",
+        "slug": "201-ss-cr-wide",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "201sshr",
+        "name": "201 SS HR",
+        "slug": "201-ss-hr",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "304sscrnarrow",
+        "name": "304 SS CR Narrow",
+        "slug": "304-ss-cr-narrow",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia"
+        }
+    },
+    {
+        "id": "304sscrwide",
+        "name": "304 SS CR Wide",
+        "slug": "304-ss-cr-wide",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia"
+        }
+    },
+    {
+        "id": "304sshr",
+        "name": "304 SS HR",
+        "slug": "304-ss-hr",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia"
+        }
+    },
+    {
+        "id": "316lsscrwide",
+        "name": "316L SS CR Wide",
+        "slug": "316l-ss-cr-wide",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia"
+        }
+    },
+    {
+        "id": "316lsshr",
+        "name": "316L SS HR",
+        "slug": "316l-ss-hr",
+        "productGroup": "Flat Products",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia"
+        }
+    },
+    {
+        "id": "shfestainlesssteel",
+        "name": "SHFE:Stainless steel",
+        "slug": "shfe-stainless-steel",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ssbrighthexagonalbar",
+        "name": "SS Bright Hexagonal Bar",
+        "slug": "ss-bright-hexagonal-bar",
+        "productGroup": "Structure",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ssbrightroundbar",
+        "name": "SS Bright Round Bar",
+        "slug": "ss-bright-round-bar",
+        "productGroup": "Structure",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ssbrightsquarebar",
+        "name": "SS Bright Square Bar",
+        "slug": "ss-bright-square-bar",
+        "productGroup": "Structure",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "sshrpflatbar",
+        "name": "SS HRP Flat Bar",
+        "slug": "ss-hrp-flat-bar",
+        "productGroup": "Structure",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "sshrpanglebar",
+        "name": "SS HRP Angle Bar",
+        "slug": "ss-hrp-angle-bar",
+        "productGroup": "Semi-Finished",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Dia",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "200ssscrap",
+        "name": "200 SS Scrap",
+        "slug": "200-ss-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "201ssscrap",
+        "name": "201 SS Scrap",
+        "slug": "201-ss-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "202ssscrap",
+        "name": "202 SS Scrap",
+        "slug": "202-ss-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "304ssscrap",
+        "name": "304 SS Scrap",
+        "slug": "304-ss-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "316ssscrap",
+        "name": "316 SS Scrap",
+        "slug": "316-ss-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "nuts_spices_coffee",
+        "name": "Nuts, Spices, & Coffee",
+        "slug": "nuts-spices-coffe",
+        "productGroup": "Spices",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ajwainhusk",
+        "name": "Ajwain Husk",
+        "slug": "ajwain-husk",
+        "productGroup": "Spices",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "blackpepper",
+        "name": "Black Pepper",
+        "slug": "black-pepper",
+        "productGroup": "Spices",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "blackpepperwhole",
+        "name": "Black Pepper Whole",
+        "slug": "black-pepper-whole",
+        "productGroup": "Spices",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "cuminseeds",
+        "name": "Cumin Seeds",
+        "slug": "cumin-seeds",
+        "productGroup": "Spices",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "psylliumhusk",
+        "name": "Psyllium Husk",
+        "slug": "psyllium-husk",
+        "productGroup": "Spices",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "redchilli",
+        "name": "Red Chilli",
+        "slug": "red-chilli",
+        "productGroup": "Spices",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "saffron",
+        "name": "Saffron",
+        "slug": "saffron",
+        "productGroup": "Spices",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "turmeric",
+        "name": "Turmeric",
+        "slug": "turmeric",
+        "productGroup": "Spices",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "almonds",
+        "name": "Almonds",
+        "slug": "almonds",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "blackraisin",
+        "name": "Black raisin",
+        "slug": "black-raisin",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "copra",
+        "name": "COPRA",
+        "slug": "copra",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "cashew",
+        "name": "Cashew",
+        "slug": "cashew",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dates",
+        "name": "Dates",
+        "slug": "dates",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type",
+            "remarks": "Size"
+        }
+    },
+    {
+        "id": "figs",
+        "name": "Figs",
+        "slug": "figs",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "hazelnut",
+        "name": "Hazelnut",
+        "slug": "hazelnut",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "independentinshellalmonds",
+        "name": "Independent Inshell Almonds",
+        "slug": "independent-inshell-almonds",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin"
+        }
+    },
+    {
+        "id": "inshellalmonds",
+        "name": "Inshell Almonds",
+        "slug": "inshell-almonds",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin"
+        }
+    },
+    {
+        "id": "makhana",
+        "name": "Makhana",
+        "slug": "makhana",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "pecan",
+        "name": "Pecan",
+        "slug": "pecan",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "pistaraw",
+        "name": "Pista Raw",
+        "slug": "pista-raw",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "pistaroasted",
+        "name": "Pista Roasted",
+        "slug": "pista-roasted",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "raisins",
+        "name": "Raisins",
+        "slug": "raisins",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "rawcashewnut",
+        "name": "Raw Cashew Nut",
+        "slug": "raw-cashew-nut",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "walnuts",
+        "name": "Walnuts",
+        "slug": "walnuts",
+        "productGroup": "Dry Fruits",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "groundnutseeds",
+        "name": "Groundnut Seeds",
+        "slug": "groundnut-seeds",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "taramira",
+        "name": "Taramira",
+        "slug": "taramira",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "greencoffeearabica",
+        "name": "Green Coffee Arabica",
+        "slug": "green-coffee-arabica",
+        "productGroup": "Coffee",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "greencoffeerobusta",
+        "name": "Green Coffee Robusta",
+        "slug": "green-coffee-robusta",
+        "productGroup": "Coffee",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Grade"
+        }
+    },
+    {
+        "id": "coconutoil",
+        "name": "Coconut Oil",
+        "slug": "coconut-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "icecocoa",
+        "name": "ICE:Cocoa",
+        "slug": "ice-cocoa",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "icecoffee",
+        "name": "ICE:Coffee",
+        "slug": "ice-coffee",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "londoncocoa",
+        "name": "London:Cocoa",
+        "slug": "london-cocoa",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "londoncoffee",
+        "name": "London:Coffee",
+        "slug": "london-coffee",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexdhaniya",
+        "name": "NCDEX:Dhaniya",
+        "slug": "ncdex-dhaniya",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexjeera",
+        "name": "NCDEX:Jeera",
+        "slug": "ncdex-jeera",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexturmericpolished",
+        "name": "NCDEX:Turmeric Polished",
+        "slug": "ncdex-turmeric-polished",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "macadamia",
+        "name": "Macadamia",
+        "slug": "macadamia",
+        "productGroup": "Nuts",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexjeeraminicontracts",
+        "name": "NCDEX:Jeera (Mini Contracts)",
+        "slug": "ncdex-jeera-mini-contracts",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "grains_pulses",
+        "name": "Grains & Pulses",
+        "slug": "grains-pulse",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "barnyardmillet",
+        "name": "Barnyard Millet",
+        "slug": "barnyard-millet",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "basmatipaddy",
+        "name": "Basmati Paddy",
+        "slug": "basmati-paddy",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "basmatirice",
+        "name": "Basmati Rice",
+        "slug": "basmati-rice",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "batri",
+        "name": "Batri",
+        "slug": "batri",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "browntopmillet",
+        "name": "Browntop Millet",
+        "slug": "browntop-millet",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "foxtailmillet",
+        "name": "Foxtail Millet",
+        "slug": "foxtail-millet",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "kodomillet",
+        "name": "Kodo Millet",
+        "slug": "kodo-millet",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "littlemillet",
+        "name": "Little Millet",
+        "slug": "little-millet",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "maida",
+        "name": "MAIDA",
+        "slug": "maida",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "maize",
+        "name": "Maize",
+        "slug": "maize",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "nonbasmatipaddy",
+        "name": "Non Basmati Paddy",
+        "slug": "non-basmati-paddy",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "nonbasmatirice",
+        "name": "Non Basmati Rice",
+        "slug": "non-basmati-rice",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "prosomillet",
+        "name": "Proso Millet",
+        "slug": "proso-millet",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "suji",
+        "name": "SUJI",
+        "slug": "suji",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "wheat",
+        "name": "WHEAT",
+        "slug": "wheat",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "wheatbran",
+        "name": "WHEAT BRAN",
+        "slug": "wheat-bran",
+        "productGroup": "Grains",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "chanadal",
+        "name": "Chana Dal",
+        "slug": "chana-dal",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "greenlentils",
+        "name": "Green Lentils",
+        "slug": "green-lentils",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "kabulichana",
+        "name": "Kabuli Chana",
+        "slug": "kabuli-chana",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "kalachana",
+        "name": "Kala Chana",
+        "slug": "kala-chana",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "lakhdi",
+        "name": "LAKHDI",
+        "slug": "lakhdi",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "masoor",
+        "name": "Masoor",
+        "slug": "masoor",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "additionalParameters": "Origin",
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "masoordal",
+        "name": "Masoor Dal",
+        "slug": "masoor-dal",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "matarwhite",
+        "name": "Matar White",
+        "slug": "matar-white",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "moong",
+        "name": "Moong",
+        "slug": "moong",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "moongdalchilka",
+        "name": "Moong Dal Chilka",
+        "slug": "moong-dal-chilka",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "moongdalmogar",
+        "name": "Moong Dal Mogar",
+        "slug": "moong-dal-mogar",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "moongmogar",
+        "name": "Moong Mogar",
+        "slug": "moong-mogar",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "moth",
+        "name": "Moth",
+        "slug": "moth",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mothmogar",
+        "name": "Moth Mogar",
+        "slug": "moth-mogar",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "rawtoor",
+        "name": "Raw Toor",
+        "slug": "raw-toor",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "toordal",
+        "name": "Toor Dal",
+        "slug": "toor-dal",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "urad",
+        "name": "Urad",
+        "slug": "urad",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "uraddalmogar",
+        "name": "Urad Dal Mogar",
+        "slug": "urad-dal-mogar",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "uradgota",
+        "name": "Urad Gota",
+        "slug": "urad-gota",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "yellowmatar",
+        "name": "Yellow Matar",
+        "slug": "yellow-matar",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Origin"
+        }
+    },
+    {
+        "id": "atta",
+        "name": "ATTA",
+        "slug": "atta",
+        "productGroup": "Flour",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "rawa",
+        "name": "RAWA",
+        "slug": "rawa",
+        "productGroup": "Flour",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sweetcorn",
+        "name": "Sweet Corn",
+        "slug": "sweet-corn",
+        "productGroup": "Processed Food",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "cbotcorn",
+        "name": "CBOT:Corn",
+        "slug": "cbot-corn",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "cbotoats",
+        "name": "CBOT:Oats",
+        "slug": "cbot-oats",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "cbotroughrice",
+        "name": "CBOT:Rough Rice",
+        "slug": "cbot-rough-rice",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "cbotwheat",
+        "name": "CBOT:Wheat",
+        "slug": "cbot-wheat",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dcecorn",
+        "name": "DCE:Corn",
+        "slug": "dce-corn",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dcepolishedroundgrainedrice",
+        "name": "DCE:Polished Round Grained Rice",
+        "slug": "dce-polished-round-grained-rice",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexguarseed",
+        "name": "NCDEX:Guar Seed",
+        "slug": "ncdex-guar-seed",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "brownbeans",
+        "name": "Brown Beans",
+        "slug": "brown-beans",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "lablabbeans",
+        "name": "Lab Lab Beans",
+        "slug": "lab-lab-beans",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "rajma",
+        "name": "Rajma",
+        "slug": "rajma",
+        "productGroup": "Pulses",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sugar",
+        "name": "Sugar",
+        "slug": "suga",
+        "productGroup": "Refinery Sugar",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "jaggery",
+        "name": "Jaggery",
+        "slug": "jaggery",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "icenewyorksugar11",
+        "name": "ICE:New York Sugar 11",
+        "slug": "ice-new-york-sugar-11",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "londonsugar5",
+        "name": "London:Sugar 5",
+        "slug": "london-sugar-5",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "coal",
+        "name": "Coal",
+        "slug": "coa",
+        "productGroup": "Coal",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "noncokingcoal",
+        "name": "Non Coking Coal",
+        "slug": "non-coking-coal",
+        "productGroup": "Coal",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Origin"
+        }
+    },
+    {
+        "id": "dcecoke",
+        "name": "DCE:Coke",
+        "slug": "dce-coke",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dcehardcokingcoal",
+        "name": "DCE:Hard Coking Coal",
+        "slug": "dce-hard-coking-coal",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "sgxtsipremiumcokingcoal",
+        "name": "SGX:TSI Premium Coking Coal",
+        "slug": "sgx-tsi-premium-coking-coal",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "pci",
+        "name": "PCI",
+        "slug": "pci",
+        "productGroup": "Coal",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ferro_alloys",
+        "name": "Ferro Alloys",
+        "slug": "ferro-alloy",
+        "productGroup": "Semi-Finished",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "manganeseore",
+        "name": "Manganese Ore",
+        "slug": "manganese-ore",
+        "productGroup": "Semi-Finished",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "silicomanganese",
+        "name": "Silico Manganese",
+        "slug": "silico-manganese",
+        "productGroup": "Manganese",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "electrolyticmanganese",
+        "name": "Electrolytic Manganese",
+        "slug": "electrolytic-manganese",
+        "productGroup": "Ferro",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ferrochrome",
+        "name": "Ferro Chrome",
+        "slug": "ferro-chrome",
+        "productGroup": "Ferro",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ferromanganese",
+        "name": "Ferro Manganese",
+        "slug": "ferro-manganese",
+        "productGroup": "Ferro",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ferromolybdenum",
+        "name": "Ferro Molybdenum",
+        "slug": "ferro-molybdenum",
+        "productGroup": "Ferro",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ferrosilicon",
+        "name": "Ferro Silicon",
+        "slug": "ferro-silicon",
+        "productGroup": "Ferro",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ferrovanadium",
+        "name": "Ferro Vanadium",
+        "slug": "ferro-vanadium",
+        "productGroup": "Ferro",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "building_construction",
+        "name": "Building & Construction",
+        "slug": "building-constructio",
+        "productGroup": "Bricks & Blocks",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "redbricks",
+        "name": "Red Bricks",
+        "slug": "red-bricks",
+        "productGroup": "Bricks & Blocks",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "rubble",
+        "name": "Rubble",
+        "slug": "rubble",
+        "productGroup": "Bricks & Blocks",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "opc43cementbags",
+        "name": "OPC43 Cement (Bags)",
+        "slug": "opc43-cement-bags",
+        "productGroup": "Cement",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "opc43cementloose",
+        "name": "OPC43 Cement (Loose)",
+        "slug": "opc43-cement-loose",
+        "productGroup": "Cement",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "opc53cementbags",
+        "name": "OPC53 Cement (Bags)",
+        "slug": "opc53-cement-bags",
+        "productGroup": "Cement",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "opc53cementloose",
+        "name": "OPC53 Cement (Loose)",
+        "slug": "opc53-cement-loose",
+        "productGroup": "Cement",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ppccementbags",
+        "name": "PPC Cement (Bags)",
+        "slug": "ppc-cement-bags",
+        "productGroup": "Cement",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ppccementloose",
+        "name": "PPC Cement (Loose)",
+        "slug": "ppc-cement-loose",
+        "productGroup": "Cement",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "coarseaggregate",
+        "name": "Coarse Aggregate",
+        "slug": "coarse-aggregate",
+        "productGroup": "Aggregates",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "fineaggregate",
+        "name": "Fine Aggregate",
+        "slug": "fine-aggregate",
+        "productGroup": "Aggregates",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mortar",
+        "name": "Mortar",
+        "slug": "mortar",
+        "productGroup": "Adhesives",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "flyash",
+        "name": "Fly Ash",
+        "slug": "fly-ash",
+        "productGroup": "Industrial Ash",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "pondash",
+        "name": "Pond Ash",
+        "slug": "pond-ash",
+        "productGroup": "Industrial Ash",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "quicklimepowderloose",
+        "name": "Quick Lime Powder (Loose)",
+        "slug": "quick-lime-powder-loose",
+        "productGroup": "Powder",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "gfrprebar",
+        "name": "GFRP Rebar",
+        "slug": "gfrp-rebar",
+        "productGroup": "Rebar",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "steelscrap_metallics",
+        "name": "Steel Scrap & Metallics",
+        "slug": "steel-scrap-metallic",
+        "productGroup": "Semi-Finished",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ironorelumps",
+        "name": "Iron Ore Lumps",
+        "slug": "iron-ore-lumps",
+        "productGroup": "Semi-Finished",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ironorepellets",
+        "name": "Iron Ore Pellets",
+        "slug": "iron-ore-pellets",
+        "productGroup": "Semi-Finished",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "pigiron",
+        "name": "Pig Iron",
+        "slug": "pig-iron",
+        "productGroup": "Semi-Finished",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "spongeiron",
+        "name": "Sponge Iron",
+        "slug": "sponge-iron",
+        "productGroup": "Semi-Finished",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "lmesteelscrap",
+        "name": "LME:Steel Scrap",
+        "slug": "lme-steel-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "meltingscrap",
+        "name": "Melting Scrap",
+        "slug": "melting-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "shipbreakinginternational",
+        "name": "Shipbreaking International",
+        "slug": "shipbreaking-international",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "shipbreakingscrap",
+        "name": "Shipbreaking Scrap",
+        "slug": "shipbreaking-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "dceironore",
+        "name": "DCE:Iron Ore",
+        "slug": "dce-iron-ore",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "sgxplattsironorelumppremium",
+        "name": "SGX:PLATTS Iron Ore (Lump Premium)",
+        "slug": "sgx-platts-iron-ore-lump-premium",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "sgxtsiironorefe62",
+        "name": "SGX:TSI Iron Ore (Fe 62)",
+        "slug": "sgx-tsi-iron-ore-fe-62",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "nonferrousscrap",
+        "name": "Non Ferrous Scrap",
+        "slug": "non-ferrous-scra",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "blackbatteryscrap",
+        "name": "Black Battery Scrap",
+        "slug": "black-battery-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "brassscrap",
+        "name": "Brass Scrap",
+        "slug": "brass-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "copperscrap",
+        "name": "Copper Scrap",
+        "slug": "copper-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "whitebatteryscrap",
+        "name": "White Battery Scrap",
+        "slug": "white-battery-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "zincscrap",
+        "name": "Zinc Scrap",
+        "slug": "zinc-scrap",
+        "productGroup": "Scrap",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "oil_seeds_feed",
+        "name": "Oil Seeds & Feed",
+        "slug": "oil-seeds-fee",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "castoroilfirstspecialgradefsg",
+        "name": "Castor Oil First Special Grade (FSG)",
+        "slug": "castor-oil-first-special-grade-fsg",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "cottonrefinedoil",
+        "name": "Cotton Refined Oil",
+        "slug": "cotton-refined-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "crudepalmoil",
+        "name": "Crude Palm Oil",
+        "slug": "crude-palm-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "groundnutoil",
+        "name": "Ground Nut Oil",
+        "slug": "ground-nut-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "groundnutoilcoldpressedexpellertelia",
+        "name": "Ground Nut Oil Cold Pressed Expeller (Telia)",
+        "slug": "ground-nut-oil-cold-pressed-expeller-telia",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mustarddeodorizedoil",
+        "name": "Mustard Deodorized Oil",
+        "slug": "mustard-deodorized-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mustardoil",
+        "name": "Mustard Oil",
+        "slug": "mustard-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mustardoilcoldpressedexpeller",
+        "name": "Mustard Oil Cold Pressed Expeller",
+        "slug": "mustard-oil-cold-pressed-expeller",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "palmrefinedoil",
+        "name": "Palm Refined Oil",
+        "slug": "palm-refined-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "palmstearin",
+        "name": "Palm Stearin",
+        "slug": "palm-stearin",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "palmsuperoleinoil",
+        "name": "Palm Super Olein Oil",
+        "slug": "palm-super-olein-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "rbdpalmoil",
+        "name": "RBD Palm Oil",
+        "slug": "rbd-palm-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "rbdpalmoleinoil",
+        "name": "RBD Palm Olein Oil",
+        "slug": "rbd-palm-olein-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ricebrancrudeoil",
+        "name": "Ricebran Crude Oil",
+        "slug": "ricebran-crude-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ricebranrefinedoil",
+        "name": "Ricebran Refined Oil",
+        "slug": "ricebran-refined-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "soyaacidoil",
+        "name": "Soya Acid Oil",
+        "slug": "soya-acid-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "soyadeodorizedoil",
+        "name": "Soya Deodorized Oil",
+        "slug": "soya-deodorized-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "soyaoildegum",
+        "name": "Soya Oil Degum",
+        "slug": "soya-oil-degum",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "soyarefinedoil",
+        "name": "Soya Refined Oil",
+        "slug": "soya-refined-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sunflowercrudeoil",
+        "name": "Sunflower Crude Oil",
+        "slug": "sunflower-crude-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sunfloweroilcoldpressedexpeller",
+        "name": "Sunflower Oil Cold Pressed Expeller",
+        "slug": "sunflower-oil-cold-pressed-expeller",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sunflowerrefinedoil",
+        "name": "Sunflower Refined Oil",
+        "slug": "sunflower-refined-oil",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "vanaspati",
+        "name": "Vanaspati",
+        "slug": "vanaspati",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "whiteolein",
+        "name": "White Olein",
+        "slug": "white-olein",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "castorseed",
+        "name": "Castor Seed",
+        "slug": "castor-seed",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "gingelly",
+        "name": "Gingelly",
+        "slug": "gingelly",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "linseed",
+        "name": "Linseed",
+        "slug": "linseed",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mustardseeds",
+        "name": "Mustard Seeds",
+        "slug": "mustard-seeds",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sesameseed",
+        "name": "Sesame Seed",
+        "slug": "sesame-seed",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "soyabean",
+        "name": "Soyabean",
+        "slug": "soyabean",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sunflowerseeds",
+        "name": "Sunflower Seeds",
+        "slug": "sunflower-seeds",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "cbotsoyabean",
+        "name": "CBOT:Soyabean",
+        "slug": "cbot-soyabean",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "cbotsoyabeanmeal",
+        "name": "CBOT:Soyabean Meal",
+        "slug": "cbot-soyabean-meal",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "cbotsoyabeanoil",
+        "name": "CBOT:Soyabean Oil",
+        "slug": "cbot-soyabean-oil",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dceno1soyabean",
+        "name": "DCE:No 1 Soyabean",
+        "slug": "dce-no-1-soyabean",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dceno2soyabean",
+        "name": "DCE:No 2 Soyabean",
+        "slug": "dce-no-2-soyabean",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dcerbdpalmolein",
+        "name": "DCE:RBD Palm Olein",
+        "slug": "dce-rbd-palm-olein",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dcesoyabeanmeal",
+        "name": "DCE:Soyabean Meal",
+        "slug": "dce-soyabean-meal",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dcesoyabeanoil",
+        "name": "DCE:Soyabean Oil",
+        "slug": "dce-soyabean-oil",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "klccrudepalmoil",
+        "name": "KLC:Crude Palm Oil",
+        "slug": "klc-crude-palm-oil",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexcastorseed",
+        "name": "NCDEX:Castor Seed",
+        "slug": "ncdex-castor-seed",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexcottonseedcake",
+        "name": "NCDEX:Cotton Seed Cake",
+        "slug": "ncdex-cotton-seed-cake",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexcrudesunfloweroil",
+        "name": "NCDEX:Crude Sunflower Oil",
+        "slug": "ncdex-crude-sunflower-oil",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexguargum",
+        "name": "NCDEX:Guar Gum",
+        "slug": "ncdex-guar-gum",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "cottonseedcake",
+        "name": "Cotton Seed Cake",
+        "slug": "cotton-seed-cake",
+        "productGroup": "Feed",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "cottonwash",
+        "name": "Cotton Wash",
+        "slug": "cotton-wash",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "deoiledricebrandorb",
+        "name": "De Oiled Ricebran (DORB)",
+        "slug": "de-oiled-ricebran-dorb",
+        "productGroup": "Feed",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "groundnutcake",
+        "name": "Ground Nut Cake",
+        "slug": "ground-nut-cake",
+        "productGroup": "Feed",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "groundnutdoc",
+        "name": "Ground Nut DOC",
+        "slug": "ground-nut-doc",
+        "productGroup": "Feed",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mustardcake",
+        "name": "Mustard Cake",
+        "slug": "mustard-cake",
+        "productGroup": "Feed",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mustarddoc",
+        "name": "Mustard DOC",
+        "slug": "mustard-doc",
+        "productGroup": "Feed",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "palmfattyaciddistillatepfad",
+        "name": "Palm Fatty Acid Distillate (PFAD)",
+        "slug": "palm-fatty-acid-distillate-pfad",
+        "productGroup": "Oil",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "soyadoc",
+        "name": "Soya DOC",
+        "slug": "soya-doc",
+        "productGroup": "Feed",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sunflowercake",
+        "name": "Sunflower Cake",
+        "slug": "sunflower-cake",
+        "productGroup": "Feed",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sunhemp",
+        "name": "Sunhemp",
+        "slug": "sunhemp",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "milk_dairy",
+        "name": "Milk & Dairy",
+        "slug": "milk-dair",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ghee",
+        "name": "Ghee",
+        "slug": "ghee",
+        "productGroup": "Dairy",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "milk",
+        "name": "Milk",
+        "slug": "milk",
+        "productGroup": "Dairy",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "agri_perishables",
+        "name": "Agri Perishables",
+        "slug": "agri-perishable",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "arbi",
+        "name": "Arbi",
+        "slug": "arbi",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "banana",
+        "name": "Banana",
+        "slug": "banana",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "beetroot",
+        "name": "Beetroot",
+        "slug": "beetroot",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ber",
+        "name": "Ber",
+        "slug": "ber",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "bittergourd",
+        "name": "Bitter Gourd",
+        "slug": "bitter-gourd",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "bottlegourd",
+        "name": "Bottle Gourd",
+        "slug": "bottle-gourd",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "brinjal",
+        "name": "Brinjal",
+        "slug": "brinjal",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "broadbeans",
+        "name": "Broad Beans",
+        "slug": "broad-beans",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "broccoli",
+        "name": "Broccoli",
+        "slug": "broccoli",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "cabbage",
+        "name": "Cabbage",
+        "slug": "cabbage",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "capsicum",
+        "name": "Capsicum",
+        "slug": "capsicum",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "carrot",
+        "name": "Carrot",
+        "slug": "carrot",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "cauliflower",
+        "name": "Cauliflower",
+        "slug": "cauliflower",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "chikoos",
+        "name": "Chikoos",
+        "slug": "chikoos",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "clusterbeans",
+        "name": "Cluster Beans",
+        "slug": "cluster-beans",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "coconut",
+        "name": "Coconut",
+        "slug": "coconut",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "cucumber",
+        "name": "Cucumber",
+        "slug": "cucumber",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "drumstick",
+        "name": "Drumstick",
+        "slug": "drumstick",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "fenugreek",
+        "name": "Fenugreek",
+        "slug": "fenugreek",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "frenchbean",
+        "name": "French Bean",
+        "slug": "french-bean",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "garlic",
+        "name": "Garlic",
+        "slug": "garlic",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "gherkin",
+        "name": "Gherkin",
+        "slug": "gherkin",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ginger",
+        "name": "Ginger",
+        "slug": "ginger",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "grapefruit",
+        "name": "Grapefruit",
+        "slug": "grapefruit",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "grapes",
+        "name": "Grapes",
+        "slug": "grapes",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "greenchilli",
+        "name": "Green Chilli",
+        "slug": "green-chilli",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "greenpeas",
+        "name": "Green Peas",
+        "slug": "green-peas",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "guava",
+        "name": "Guava",
+        "slug": "guava",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "iceorangejuice",
+        "name": "ICE:Orange Juice",
+        "slug": "ice-orange-juice",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ivygourd",
+        "name": "Ivy Gourd",
+        "slug": "ivy-gourd",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "jackfruit",
+        "name": "Jack Fruit",
+        "slug": "jack-fruit",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "kinnow",
+        "name": "Kinnow",
+        "slug": "kinnow",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ladiesfinger",
+        "name": "Ladies Finger",
+        "slug": "ladies-finger",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "lemon",
+        "name": "Lemon",
+        "slug": "lemon",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mahua",
+        "name": "Mahua",
+        "slug": "mahua",
+        "productGroup": "Other",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mango",
+        "name": "Mango",
+        "slug": "mango",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "marigold",
+        "name": "Marigold",
+        "slug": "marigold",
+        "productGroup": "Flower",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mintleaves",
+        "name": "Mint Leaves",
+        "slug": "mint-leaves",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mushroom",
+        "name": "Mushroom",
+        "slug": "mushroom",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "muskmelon",
+        "name": "Musk Melon",
+        "slug": "musk-melon",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "onion",
+        "name": "Onion",
+        "slug": "onion",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "orange",
+        "name": "Orange",
+        "slug": "orange",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "papaya",
+        "name": "Papaya",
+        "slug": "papaya",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "pineapple",
+        "name": "Pineapple",
+        "slug": "pineapple",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "plum",
+        "name": "Plum",
+        "slug": "plum",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "pointedgourd",
+        "name": "Pointed Gourd",
+        "slug": "pointed-gourd",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "pomegranate",
+        "name": "Pomegranate",
+        "slug": "pomegranate",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "potato",
+        "name": "Potato",
+        "slug": "potato",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "potatosweet",
+        "name": "Potato Sweet",
+        "slug": "potato-sweet",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "pumpkin",
+        "name": "Pumpkin",
+        "slug": "pumpkin",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "rawmango",
+        "name": "Raw Mango",
+        "slug": "raw-mango",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "ridgegourd",
+        "name": "Ridge Gourd",
+        "slug": "ridge-gourd",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sem",
+        "name": "Sem",
+        "slug": "sem",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "shellingpeas",
+        "name": "Shelling Peas",
+        "slug": "shelling-peas",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "spinach",
+        "name": "Spinach",
+        "slug": "spinach",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "spongegourd",
+        "name": "Sponge Gourd",
+        "slug": "sponge-gourd",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "springonion",
+        "name": "Spring Onion",
+        "slug": "spring-onion",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "squash",
+        "name": "Squash",
+        "slug": "squash",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "sweetlemon",
+        "name": "Sweet Lemon",
+        "slug": "sweet-lemon",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "tamarind",
+        "name": "Tamarind",
+        "slug": "tamarind",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "tamarindseed",
+        "name": "Tamarind Seed",
+        "slug": "tamarind-seed",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "tapioca",
+        "name": "Tapioca",
+        "slug": "tapioca",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "teora",
+        "name": "Teora",
+        "slug": "teora",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "tinda",
+        "name": "Tinda",
+        "slug": "tinda",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "tomato",
+        "name": "Tomato",
+        "slug": "tomato",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "tuberose",
+        "name": "Tuberose",
+        "slug": "tuberose",
+        "productGroup": "Other",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "watermelon",
+        "name": "Water Melon",
+        "slug": "water-melon",
+        "productGroup": "Fruits",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "whitepeas",
+        "name": "White Peas",
+        "slug": "white-peas",
+        "productGroup": "Vegetables",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "cotton_textile",
+        "name": "Cotton & Textile",
+        "slug": "cotton-textil",
+        "productGroup": "Seeds",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "icecotton2",
+        "name": "ICE:Cotton 2",
+        "slug": "ice-cotton-2",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "mcxcottoncandy",
+        "name": "MCX:Cotton Candy",
+        "slug": "mcx-cotton-candy",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "mcxkapas",
+        "name": "MCX:Kapas",
+        "slug": "mcx-kapas",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "ncdexkapas",
+        "name": "NCDEX:Kapas",
+        "slug": "ncdex-kapas",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "silkcocoon",
+        "name": "Silk Cocoon",
+        "slug": "silk-cocoon",
+        "productGroup": "Cotton",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "seafood",
+        "name": "Seafood & Poultry",
+        "slug": "seafood-poultr",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "dceegg",
+        "name": "DCE:Egg",
+        "slug": "dce-egg",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "fish",
+        "name": "Fish",
+        "slug": "fish",
+        "productGroup": "Sea Food",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "prawn",
+        "name": "Prawn",
+        "slug": "prawn",
+        "productGroup": "Sea Food",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "shrimp",
+        "name": "Shrimp",
+        "slug": "shrimp",
+        "productGroup": "Sea Food",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "preciousmetals",
+        "name": "Precious Metals",
+        "slug": "precious-metal",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "comexsilver",
+        "name": "COMEX:Silver",
+        "slug": "comex-silver",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "gold",
+        "name": "Gold",
+        "slug": "gold",
+        "productGroup": "Metals",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "mcxgold",
+        "name": "MCX:Gold",
+        "slug": "mcx-gold",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "mcxsilver",
+        "name": "MCX:Silver",
+        "slug": "mcx-silver",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "platinum",
+        "name": "Platinum",
+        "slug": "platinum",
+        "productGroup": "Metals",
+        "pricingAttributeAliasNameMap": {}
+    },
+    {
+        "id": "shfegold",
+        "name": "SHFE:Gold",
+        "slug": "shfe-gold",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "shfesilver",
+        "name": "SHFE:Silver",
+        "slug": "shfe-silver",
+        "productGroup": "Index",
+        "pricingAttributeAliasNameMap": {
+            "productType": "Type"
+        }
+    },
+    {
+        "id": "silver",
+        "name": "Silver",
+        "slug": "silver",
+        "productGroup": "Metals",
+        "pricingAttributeAliasNameMap": {}
+    }
+],
+
+"getCountryInfo(undefined)": {
+"status": "fulfilled",
+"endpointName": "getCountryInfo",
+"requestId": "1Pj3ZDboDh0BWzapD1uBx",
+"startedTimeStamp": 1714044774377,
+"data": [
+    {
+        "name": "AFGHANISTAN",
+        "displayName": "Afghanistan",
+        "mobileCode": "+93",
+        "code": "AF",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3af.svg",
+        "flagString": "🇦🇫",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "ALBANIA",
+        "displayName": "Albania",
+        "mobileCode": "+355",
+        "code": "AL",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3al.svg",
+        "flagString": "🇦🇱",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "AUSTRALIA",
+        "displayName": "Australia",
+        "mobileCode": "+61",
+        "code": "AU",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3au.svg",
+        "flagString": "🇦🇺",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "AUSTRIA",
+        "displayName": "Austria",
+        "mobileCode": "+43",
+        "code": "AT",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3at.svg",
+        "flagString": "🇦🇹",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "BAHRAIN",
+        "displayName": "Bahrain",
+        "mobileCode": "+973",
+        "code": "BH",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3bh.svg",
+        "flagString": "🇧🇭",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "BANGLADESH",
+        "displayName": "Bangladesh",
+        "mobileCode": "+880",
+        "code": "BD",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3bd.svg",
+        "flagString": "🇧🇩",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "BELGIUM",
+        "displayName": "Belgium",
+        "mobileCode": "+32",
+        "code": "BE",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3be.svg",
+        "flagString": "🇧🇪",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "BENIN",
+        "displayName": "Benin",
+        "mobileCode": "+229",
+        "code": "BJ",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3bj.svg",
+        "flagString": "🇧🇯",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "BHUTAN",
+        "displayName": "Bhutan",
+        "mobileCode": "+975",
+        "code": "BT",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3bt.svg",
+        "flagString": "🇧🇹",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "BRAZIL",
+        "displayName": "Brazil",
+        "mobileCode": "+55",
+        "code": "BR",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3br.svg",
+        "flagString": "🇧🇷",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "CAMBODIA",
+        "displayName": "Cambodia",
+        "mobileCode": "+855",
+        "code": "KH",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3kh.svg",
+        "flagString": "🇰🇭",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "CANADA",
+        "displayName": "Canada",
+        "mobileCode": "+1",
+        "code": "CA",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ca.svg",
+        "flagString": "🇨🇦",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "CHILE",
+        "displayName": "Chile",
+        "mobileCode": "+56",
+        "code": "CL",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3cl.svg",
+        "flagString": "🇨🇱",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "CHINA",
+        "displayName": "China",
+        "mobileCode": "+86",
+        "code": "CN",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3cn.svg",
+        "flagString": "🇨🇳",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "COLOMBIA",
+        "displayName": "Colombia",
+        "mobileCode": "+57",
+        "code": "CO",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3co.svg",
+        "flagString": "🇨🇴",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "DENMARK",
+        "displayName": "Denmark",
+        "mobileCode": "+45",
+        "code": "DK",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3dk.svg",
+        "flagString": "🇩🇰",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "ECUADOR",
+        "displayName": "Ecuador",
+        "mobileCode": "+593",
+        "code": "EC",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ec.svg",
+        "flagString": "🇪🇨",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "EGYPT",
+        "displayName": "Egypt",
+        "mobileCode": "+20",
+        "code": "EG",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3eg.svg",
+        "flagString": "🇪🇬",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "FRANCE",
+        "displayName": "France",
+        "mobileCode": "+33",
+        "code": "FR",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3fr.svg",
+        "flagString": "🇫🇷",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "GERMANY",
+        "displayName": "Germany",
+        "mobileCode": "+49",
+        "code": "DE",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3de.svg",
+        "flagString": "🇩🇪",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "GHANA",
+        "displayName": "Ghana",
+        "mobileCode": "+233",
+        "code": "GH",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3gh.svg",
+        "flagString": "🇬🇭",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "HONG_KONG",
+        "displayName": "Hong Kong",
+        "mobileCode": "+852",
+        "code": "HK",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3hk.svg",
+        "flagString": "🇭🇰",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "INDIA",
+        "displayName": "India",
+        "mobileCode": "+91",
+        "code": "IN",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3in.svg",
+        "flagString": "🇮🇳",
+        "isDefault": true,
+        "numberRegex": "^\\+91[6789]\\d{9}$"
+    },
+    {
+        "name": "INDONESIA",
+        "displayName": "Indonesia",
+        "mobileCode": "+62",
+        "code": "ID",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3id.svg",
+        "flagString": "🇮🇩",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "IRAN",
+        "displayName": "Iran",
+        "mobileCode": "+98",
+        "code": "IR",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ir.svg",
+        "flagString": "🇮🇷",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "IRAQ",
+        "displayName": "Iraq",
+        "mobileCode": "+964",
+        "code": "IQ",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3iq.svg",
+        "flagString": "🇮🇶",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "IRELAND",
+        "displayName": "Ireland",
+        "mobileCode": "+353",
+        "code": "IE",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ie.svg",
+        "flagString": "🇮🇪",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "ISRAEL",
+        "displayName": "Israel",
+        "mobileCode": "+972",
+        "code": "IL",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3il.svg",
+        "flagString": "🇮🇱",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "ITALY",
+        "displayName": "Italy",
+        "mobileCode": "+39",
+        "code": "IT",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3it.svg",
+        "flagString": "🇮🇹",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "JAPAN",
+        "displayName": "Japan",
+        "mobileCode": "+81",
+        "code": "JP",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3jp.svg",
+        "flagString": "🇯🇵",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "KENYA",
+        "displayName": "Kenya",
+        "mobileCode": "+254",
+        "code": "KE",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ke.svg",
+        "flagString": "🇰🇪",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "KOSOVO",
+        "displayName": "Kosovo",
+        "mobileCode": "+383",
+        "code": "XK",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3xk.svg",
+        "flagString": "🇽🇰",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "KUWAIT",
+        "displayName": "Kuwait",
+        "mobileCode": "+965",
+        "code": "KW",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3kw.svg",
+        "flagString": "🇰🇼",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "LEBANON",
+        "displayName": "Lebanon",
+        "mobileCode": "+961",
+        "code": "LB",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3lb.svg",
+        "flagString": "🇱🇧",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "LUXEMBOURG",
+        "displayName": "Luxembourg",
+        "mobileCode": "+352",
+        "code": "LU",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3lu.svg",
+        "flagString": "🇱🇺",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "MALAYSIA",
+        "displayName": "Malaysia",
+        "mobileCode": "+60",
+        "code": "MY",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3my.svg",
+        "flagString": "🇲🇾",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "MALDIVES",
+        "displayName": "Maldives",
+        "mobileCode": "+960",
+        "code": "MV",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3mv.svg",
+        "flagString": "🇲🇻",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "MARSHALL_ISLANDS",
+        "displayName": "Marshall Islands",
+        "mobileCode": "+692",
+        "code": "MH",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3mh.svg",
+        "flagString": "🇲🇭",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "MAURITIUS",
+        "displayName": "Mauritius",
+        "mobileCode": "+230",
+        "code": "MU",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3mu.svg",
+        "flagString": "🇲🇺",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "MEXICO",
+        "displayName": "Mexico",
+        "mobileCode": "+52",
+        "code": "MX",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3mx.svg",
+        "flagString": "🇲🇽",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "MOZAMBIQUE",
+        "displayName": "Mozambique",
+        "mobileCode": "+943",
+        "code": "MZ",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3mz.svg",
+        "flagString": "🇲🇿",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "NEPAL",
+        "displayName": "Nepal",
+        "mobileCode": "+977",
+        "code": "NP",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3np.svg",
+        "flagString": "🇳🇵",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "NETHERLANDS",
+        "displayName": "Netherlands",
+        "mobileCode": "+31",
+        "code": "NL",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3nl.svg",
+        "flagString": "🇳🇱",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "NEW_ZEALAND",
+        "displayName": "New Zealand",
+        "mobileCode": "+64",
+        "code": "NZ",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3nz.svg",
+        "flagString": "🇳🇿",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "NIGERIA",
+        "displayName": "Nigeria",
+        "mobileCode": "+234",
+        "code": "NG",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ng.svg",
+        "flagString": "🇳🇬",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "OMAN",
+        "displayName": "Oman",
+        "mobileCode": "+968",
+        "code": "OM",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3om.svg",
+        "flagString": "🇴🇲",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "PAKISTAN",
+        "displayName": "Pakistan",
+        "mobileCode": "+92",
+        "code": "PK",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3pk.svg",
+        "flagString": "🇵🇰",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "PHILIPPINES",
+        "displayName": "Philippines",
+        "mobileCode": "+63",
+        "code": "PH",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ph.svg",
+        "flagString": "🇵🇭",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "POLAND",
+        "displayName": "Poland",
+        "mobileCode": "+48",
+        "code": "PL",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3pl.svg",
+        "flagString": "🇵🇱",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "QATAR",
+        "displayName": "Qatar",
+        "mobileCode": "+974",
+        "code": "QA",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3qa.svg",
+        "flagString": "🇶🇦",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "ROMANIA",
+        "displayName": "Romania",
+        "mobileCode": "+40",
+        "code": "RO",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ro.svg",
+        "flagString": "🇷🇴",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "RUSSIA",
+        "displayName": "Russia",
+        "mobileCode": "+7",
+        "code": "RU",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ru.svg",
+        "flagString": "🇷🇺",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "SAUDI_ARABIA",
+        "displayName": "Saudi Arabia",
+        "mobileCode": "+966",
+        "code": "SA",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3sa.svg",
+        "flagString": "🇸🇦",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "SERBIA",
+        "displayName": "Serbia",
+        "mobileCode": "+381",
+        "code": "RS",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3rs.svg",
+        "flagString": "🇷🇸",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "SINGAPORE",
+        "displayName": "Singapore",
+        "mobileCode": "+65",
+        "code": "SG",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3sg.svg",
+        "flagString": "🇸🇬",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "SOUTH_AFRICA",
+        "displayName": "South Africa",
+        "mobileCode": "+27",
+        "code": "ZA",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3za.svg",
+        "flagString": "🇿🇦",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "SOUTH_KOREA",
+        "displayName": "South Korea",
+        "mobileCode": "+82",
+        "code": "KR",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3kr.svg",
+        "flagString": "🇰🇷",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "SPAIN",
+        "displayName": "Spain",
+        "mobileCode": "+34",
+        "code": "ES",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3es.svg",
+        "flagString": "🇪🇸",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "SRI_LANKA",
+        "displayName": "Sri Lanka",
+        "mobileCode": "+94",
+        "code": "LK",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3lk.svg",
+        "flagString": "🇱🇰",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "SWEDEN",
+        "displayName": "Sweden",
+        "mobileCode": "+46",
+        "code": "SE",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3se.svg",
+        "flagString": "🇸🇪",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "SWITZERLAND",
+        "displayName": "Switzerland",
+        "mobileCode": "+41",
+        "code": "CH",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ch.svg",
+        "flagString": "🇨🇭",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "TANZANIA",
+        "displayName": "Tanzania",
+        "mobileCode": "+255",
+        "code": "TZ",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3tz.svg",
+        "flagString": "🇹🇿",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "THAILAND",
+        "displayName": "Thailand",
+        "mobileCode": "+66",
+        "code": "TH",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3th.svg",
+        "flagString": "🇹🇭",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "UKRAINE",
+        "displayName": "Ukraine",
+        "mobileCode": "+380",
+        "code": "UA",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ua.svg",
+        "flagString": "🇺🇦",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "UNITED_ARAB_EMIRATES",
+        "displayName": "United Arab Emirates",
+        "mobileCode": "+971",
+        "code": "AE",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3ae.svg",
+        "flagString": "🇦🇪",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "UNITED_KINGDOM",
+        "displayName": "United Kingdom",
+        "mobileCode": "+44",
+        "code": "GB",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3gb.svg",
+        "flagString": "🇬🇧",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "UNITED_STATES",
+        "displayName": "United States",
+        "mobileCode": "+1",
+        "code": "US",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3us.svg",
+        "flagString": "🇺🇸",
+        "isDefault": false,
+        "numberRegex": "^\\+1\\d{10}$"
+    },
+    {
+        "name": "VIETNAM",
+        "displayName": "Vietnam",
+        "mobileCode": "+84",
+        "code": "VN",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3vn.svg",
+        "flagString": "🇻🇳",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    },
+    {
+        "name": "ZAMBIA",
+        "displayName": "Zambia",
+        "mobileCode": "+260",
+        "code": "ZM",
+        "image": "https:d3dhalnpawfxbg.cloudfront.netcipherresourceflags4x3zm.svg",
+        "flagString": "🇿🇲",
+        "isDefault": false,
+        "numberRegex": "^\\+[1-9]\\d{5,14}$"
+    }
+],
+"fulfilledTimeStamp": 1714044774383
+},
+"getSearchLanding(undefined)": {
+"status": "fulfilled",
+"endpointName": "getSearchLanding",
+"requestId": "9bDIiM7TSsnahlhcLgsuT",
+"startedTimeStamp": 1714044774384,
+"data": {
+    "prices": [
+        {
+            "id": "aluminiumingot",
+            "name": "Aluminium Ingot",
+            "slug": "aluminium-ingot",
+            "productGroup": "Semi-Finished",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Purity",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "bitumen",
+            "name": "Bitumen",
+            "slug": "bitumen",
+            "productGroup": "Black Oil",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Grade",
+                "remarks": "Packaging Type"
+            }
+        },
+        {
+            "id": "methanol",
+            "name": "Methanol",
+            "slug": "methanol",
+            "productGroup": "Solvents",
+            "pricingAttributeAliasNameMap": {
+                "remarks": "Packaging Type"
+            }
+        },
+        {
+            "id": "pvc",
+            "name": "PVC",
+            "slug": "pvc",
+            "productGroup": "Commodity",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        }
+    ],
+    "topCategories": [
+        {
+            "id": "aluminiumingot",
+            "name": "Aluminium Ingot",
+            "slug": "aluminium-ingot",
+            "productGroup": "Semi-Finished",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Purity",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "bitumen",
+            "name": "Bitumen",
+            "slug": "bitumen",
+            "productGroup": "Black Oil",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Grade",
+                "remarks": "Packaging Type"
+            }
+        },
+        {
+            "id": "methanol",
+            "name": "Methanol",
+            "slug": "methanol",
+            "productGroup": "Solvents",
+            "pricingAttributeAliasNameMap": {
+                "remarks": "Packaging Type"
+            }
+        },
+        {
+            "id": "pvc",
+            "name": "PVC",
+            "slug": "pvc",
+            "productGroup": "Commodity",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "secondarytmt",
+            "name": "Secondary TMT",
+            "slug": "secondary-tmt",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "wheat",
+            "name": "WHEAT",
+            "slug": "wheat",
+            "productGroup": "Grains",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Origin",
+                "productType": "Type"
+            }
+        }
+    ],
+    "news": [
+        {
+            "id": "mildsteel",
+            "name": "Mild Steel",
+            "slug": "mild-steel",
+            "productGroup": "Flat Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "gicoil",
+            "name": "GI Coil",
+            "slug": "gi-coil",
+            "productGroup": "Flat Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "gpcoil",
+            "name": "GP Coil",
+            "slug": "gp-coil",
+            "productGroup": "Flat Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "hrplate",
+            "name": "HR Plate",
+            "slug": "hr-plate",
+            "productGroup": "Flat Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "hrstrips",
+            "name": "HR Strips",
+            "slug": "hr-strips",
+            "productGroup": "Flat Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Thickness",
+                "productType": "Dimension"
+            }
+        },
+        {
+            "id": "hrc",
+            "name": "HRC",
+            "slug": "hrc",
+            "productGroup": "Flat Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "pmplate",
+            "name": "PM Plate",
+            "slug": "pm-plate",
+            "productGroup": "Flat Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "ppgi",
+            "name": "PPGI",
+            "slug": "ppgi",
+            "productGroup": "Flat Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "ppgl",
+            "name": "PPGL",
+            "slug": "ppgl",
+            "productGroup": "Flat Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "bindingwire",
+            "name": "Binding Wire",
+            "slug": "binding-wire",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "hbwire",
+            "name": "HB Wire",
+            "slug": "hb-wire",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "hrpo",
+            "name": "HRPO",
+            "slug": "hrpo",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "primarytmt",
+            "name": "Primary TMT",
+            "slug": "primary-tmt",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "roundbar",
+            "name": "Round Bar",
+            "slug": "round-bar",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Grade",
+                "productType": "Dimension"
+            }
+        },
+        {
+            "id": "secondarytmt",
+            "name": "Secondary TMT",
+            "slug": "secondary-tmt",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "tmtrebarinternational",
+            "name": "TMT Rebar International",
+            "slug": "tmt-rebar-international",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Dimension"
+            }
+        },
+        {
+            "id": "wirerod",
+            "name": "Wire Rod",
+            "slug": "wire-rod",
+            "productGroup": "Long Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension"
+            }
+        },
+        {
+            "id": "angle",
+            "name": "Angle",
+            "slug": "angle",
+            "productGroup": "Structure",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Grade",
+                "productType": "Size"
+            }
+        },
+        {
+            "id": "beam",
+            "name": "Beam",
+            "slug": "beam",
+            "productGroup": "Structure",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Grade",
+                "productType": "Size"
+            }
+        },
+        {
+            "id": "channel",
+            "name": "Channel",
+            "slug": "channel",
+            "productGroup": "Structure",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Grade",
+                "productType": "Size"
+            }
+        },
+        {
+            "id": "heavystructure",
+            "name": "Heavy Structure",
+            "slug": "heavy-structure",
+            "productGroup": "Structure",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "msflats",
+            "name": "MS Flats",
+            "slug": "ms-flats",
+            "productGroup": "Structure",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Type",
+                "productType": "Size"
+            }
+        },
+        {
+            "id": "msbillets",
+            "name": "MS Billets",
+            "slug": "ms-billets",
+            "productGroup": "Semi-Finished",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Type",
+                "productType": "Size"
+            }
+        },
+        {
+            "id": "msingot",
+            "name": "MS Ingot",
+            "slug": "ms-ingot",
+            "productGroup": "Semi-Finished",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Type",
+                "productType": "Dimension"
+            }
+        },
+        {
+            "id": "crsheet",
+            "name": "CR Sheet",
+            "slug": "cr-sheet",
+            "productGroup": "Flat Products",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension",
+                "productType": "Grade"
+            }
+        },
+        {
+            "id": "mserwpipe",
+            "name": "MS ERW Pipe",
+            "slug": "ms-erw-pipe",
+            "productGroup": "Pipe",
+            "pricingAttributeAliasNameMap": {
+                "additionalParameters": "Dimension"
+            }
+        },
+        {
+            "id": "lmehrc",
+            "name": "LME:HRC",
+            "slug": "lme-hrc",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "lmesteelhrc",
+            "name": "LME:Steel HRC",
+            "slug": "lme-steel-hrc",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "lmesteelrebar",
+            "name": "LME:Steel Rebar",
+            "slug": "lme-steel-rebar",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "ncdexsteellong",
+            "name": "NCDEX:Steel Long",
+            "slug": "ncdex-steel-long",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfehrc",
+            "name": "SHFE:HRC",
+            "slug": "shfe-hrc",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfesteelrebar",
+            "name": "SHFE:Steel Rebar",
+            "slug": "shfe-steel-rebar",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        },
+        {
+            "id": "shfesteelwirerod",
+            "name": "SHFE:Steel Wire Rod",
+            "slug": "shfe-steel-wire-rod",
+            "productGroup": "Index",
+            "pricingAttributeAliasNameMap": {
+                "productType": "Type"
+            }
+        }
+    ],
+    "isFavorite": false,
+    "displayOrder": 1,
+    "oasysCategoryId": null,
+    "moq": 0,
+    "orderUoM": null,
+    "isOfbFulfilled": true,
+    "canSell": false,
+    "brandVisibility": false,
+    "gradeVisibility": false,
+    "remarkVisibility": false,
+    "productGroup": null,
+    "pricingAttributeAliasNameMap": null
+},
+{
+    "id": "nonferrous",
+    "name": "Non Ferrous",
+    "slug": "non-ferrous",
+    "productGroup": "Long Products",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Purity",
+        "productType": "Grade"
+    }
+},
+{
+    "id": "brass",
+    "name": "Brass",
+    "slug": "brass",
+    "productGroup": "Long Products",
+    "pricingAttributeAliasNameMap": {}
+},
+{
+    "id": "brasshoney",
+    "name": "Brass Honey",
+    "slug": "brass-honey",
+    "productGroup": "Long Products",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Grade"
+    }
+},
+{
+    "id": "coppercathode",
+    "name": "Copper Cathode",
+    "slug": "copper-cathode",
+    "productGroup": "Long Products",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Purity"
+    }
+},
+{
+    "id": "copperrod",
+    "name": "Copper Rod",
+    "slug": "copper-rod",
+    "productGroup": "Long Products",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Purity",
+        "productType": "Dimension"
+    }
+},
+{
+    "id": "copperwire",
+    "name": "Copper Wire",
+    "slug": "copper-wire",
+    "productGroup": "Long Products",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Dimension"
+    }
+},
+{
+    "id": "gunmetal",
+    "name": "Gun Metal",
+    "slug": "gun-metal",
+    "productGroup": "Long Products",
+    "pricingAttributeAliasNameMap": {}
+},
+{
+    "id": "nickelcathode",
+    "name": "Nickel Cathode",
+    "slug": "nickel-cathode",
+    "productGroup": "Long Products",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Purity",
+        "productType": "Grade"
+    }
+},
+{
+    "id": "zincwire",
+    "name": "Zinc Wire",
+    "slug": "zinc-wire",
+    "productGroup": "Long Products",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Thickness"
+    }
+},
+{
+    "id": "aluminiumalloyingot",
+    "name": "Aluminium Alloy Ingot",
+    "slug": "aluminium-alloy-ingot",
+    "productGroup": "Semi-Finished",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Purity",
+        "productType": "Grade"
+    }
+},
+{
+    "id": "aluminiumingot",
+    "name": "Aluminium Ingot",
+    "slug": "aluminium-ingot",
+    "productGroup": "Semi-Finished",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Purity",
+        "productType": "Grade"
+    }
+},
+{
+    "id": "leadingot",
+    "name": "Lead Ingot",
+    "slug": "lead-ingot",
+    "productGroup": "Semi-Finished",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Purity",
+        "productType": "Grade"
+    }
+},
+{
+    "id": "tiningot",
+    "name": "Tin Ingot",
+    "slug": "tin-ingot",
+    "productGroup": "Semi-Finished",
+    "pricingAttributeAliasNameMap": {}
+},
+{
+    "id": "zincingot",
+    "name": "Zinc Ingot",
+    "slug": "zinc-ingot",
+    "productGroup": "Semi-Finished",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Purity",
+        "productType": "Grade"
+    }
+},
+{
+    "id": "comexcopperhighgrade",
+    "name": "COMEX:Copper High Grade",
+    "slug": "comex-copper-high-grade",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "lmealuminium",
+    "name": "LME:Aluminium",
+    "slug": "lme-aluminium",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "lmecobalt",
+    "name": "LME:Cobalt",
+    "slug": "lme-cobalt",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "lmecopper",
+    "name": "LME:Copper",
+    "slug": "lme-copper",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "lmelead",
+    "name": "LME:Lead",
+    "slug": "lme-lead",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "lmelithiumhydroxide",
+    "name": "LME:Lithium Hydroxide",
+    "slug": "lme-lithium-hydroxide",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "lmenickel",
+    "name": "LME:Nickel",
+    "slug": "lme-nickel",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "lmetin",
+    "name": "LME:Tin",
+    "slug": "lme-tin",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "lmezinc",
+    "name": "LME:Zinc",
+    "slug": "lme-zinc",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "mcxaluminium",
+    "name": "MCX:Aluminium",
+    "slug": "mcx-aluminium",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "mcxcopper",
+    "name": "MCX:Copper",
+    "slug": "mcx-copper",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "mcxlead",
+    "name": "MCX:Lead",
+    "slug": "mcx-lead",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "mcxnickel",
+    "name": "MCX:Nickel",
+    "slug": "mcx-nickel",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "mcxzinc",
+    "name": "MCX:Zinc",
+    "slug": "mcx-zinc",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfealuminium",
+    "name": "SHFE:Aluminium",
+    "slug": "shfe-aluminium",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfealuminiumoxide",
+    "name": "SHFE:Aluminium Oxide",
+    "slug": "shfe-aluminium-oxide",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfecopper",
+    "name": "SHFE:Copper",
+    "slug": "shfe-copper",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfecopperbc",
+    "name": "SHFE:Copper BC",
+    "slug": "shfe-copper-bc",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfelead",
+    "name": "SHFE:Lead",
+    "slug": "shfe-lead",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfenickel",
+    "name": "SHFE:Nickel",
+    "slug": "shfe-nickel",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfetin",
+    "name": "SHFE:Tin",
+    "slug": "shfe-tin",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfezinc",
+    "name": "SHFE:Zinc",
+    "slug": "shfe-zinc",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "polymers_packaging",
+    "name": "Polymers & Packaging",
+    "slug": "polymers-packaging",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Color"
+    }
+},
+{
+    "id": "cpvc",
+    "name": "CPVC",
+    "slug": "cpvc",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "eva",
+    "name": "EVA",
+    "slug": "eva",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Type",
+        "productType": "Composition"
+    }
+},
+{
+    "id": "hdpe",
+    "name": "HDPE",
+    "slug": "hdpe",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "ldpe",
+    "name": "LDPE",
+    "slug": "ldpe",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "lldpe",
+    "name": "LLDPE",
+    "slug": "lldpe",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "mdpe",
+    "name": "MDPE",
+    "slug": "mdpe",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "ppcp",
+    "name": "PPCP",
+    "slug": "ppcp",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "pphp",
+    "name": "PPHP",
+    "slug": "pphp",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "pvc",
+    "name": "PVC",
+    "slug": "pvc",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "gpps",
+    "name": "GPPS",
+    "slug": "gpps",
+    "productGroup": "Engineering",
+    "pricingAttributeAliasNameMap": {}
+},
+{
+    "id": "hips",
+    "name": "HIPS",
+    "slug": "hips",
+    "productGroup": "Engineering",
+    "pricingAttributeAliasNameMap": {}
+},
+{
+    "id": "nylon6",
+    "name": "NYLON6",
+    "slug": "nylon6",
+    "productGroup": "Engineering",
+    "pricingAttributeAliasNameMap": {}
+},
+{
+    "id": "pet",
+    "name": "PET",
+    "slug": "pet",
+    "productGroup": "Engineering",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "bopp",
+    "name": "BOPP",
+    "slug": "bopp",
+    "productGroup": "Film",
+    "pricingAttributeAliasNameMap": {}
+},
+{
+    "id": "goldenyellowkraftpaper",
+    "name": "Golden Yellow Kraft Paper",
+    "slug": "golden-yellow-kraft-paper",
+    "productGroup": "Paper",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "naturalkraftpaper",
+    "name": "Natural Kraft Paper",
+    "slug": "natural-kraft-paper",
+    "productGroup": "Paper",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "hdpepipe",
+    "name": "HDPE Pipe",
+    "slug": "hdpe-pipe",
+    "productGroup": "Pipe",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "pvcpipe",
+    "name": "PVC Pipe",
+    "slug": "pvc-pipe",
+    "productGroup": "Pipe",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "cmelumber",
+    "name": "CME:Lumber",
+    "slug": "cme-lumber",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "dceblockboard",
+    "name": "DCE:Block Board",
+    "slug": "dce-block-board",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "dcefibreboard",
+    "name": "DCE:Fibre Board",
+    "slug": "dce-fibre-board",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "dcelldpe",
+    "name": "DCE:LLDPE",
+    "slug": "dce-lldpe",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "dcepp",
+    "name": "DCE:PP",
+    "slug": "dce-pp",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "dcepvc",
+    "name": "DCE:PVC",
+    "slug": "dce-pvc",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "feedstockacn",
+    "name": "Feedstock:ACN",
+    "slug": "feedstock-acn",
+    "productGroup": "Feedstock",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "feedstockedc",
+    "name": "Feedstock:EDC",
+    "slug": "feedstock-edc",
+    "productGroup": "Feedstock",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "feedstockethylene",
+    "name": "Feedstock:Ethylene",
+    "slug": "feedstock-ethylene",
+    "productGroup": "Feedstock",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "feedstockmeg",
+    "name": "Feedstock:MEG",
+    "slug": "feedstock-meg",
+    "productGroup": "Feedstock",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "feedstocknaphtha",
+    "name": "Feedstock:Naphtha",
+    "slug": "feedstock-naphtha",
+    "productGroup": "Feedstock",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "feedstockparaxylene",
+    "name": "Feedstock:Paraxylene",
+    "slug": "feedstock-paraxylene",
+    "productGroup": "Feedstock",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "feedstockpropylene",
+    "name": "Feedstock:Propylene",
+    "slug": "feedstock-propylene",
+    "productGroup": "Feedstock",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "feedstockpurifiedterephthalicacidpta",
+    "name": "Feedstock:Purified Terephthalic Acid (PTA)",
+    "slug": "feedstock-purified-terephthalic-acid-pta",
+    "productGroup": "Feedstock",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "feedstockstyrenemonomer",
+    "name": "Feedstock:Styrene Monomer",
+    "slug": "feedstock-styrene-monomer",
+    "productGroup": "Feedstock",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "feedstockvcm",
+    "name": "Feedstock:VCM",
+    "slug": "feedstock-vcm",
+    "productGroup": "Feedstock",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfebutadienerubber",
+    "name": "SHFE:Butadiene Rubber",
+    "slug": "shfe-butadiene-rubber",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfenaturalrubber",
+    "name": "SHFE:Natural Rubber",
+    "slug": "shfe-natural-rubber",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfetsr20rubber",
+    "name": "SHFE:TSR 20 (Rubber)",
+    "slug": "shfe-tsr-20-rubber",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "shfewoodpulp",
+    "name": "SHFE:Woodpulp",
+    "slug": "shfe-woodpulp",
+    "productGroup": "Index",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Type"
+    }
+},
+{
+    "id": "pvcsuspension",
+    "name": "PVC Suspension",
+    "slug": "pvc-suspension",
+    "productGroup": "Commodity",
+    "pricingAttributeAliasNameMap": {}
+},
+{
+    "id": "agrochemicals",
+    "name": "Agrochemicals",
+    "slug": "agrochemicals",
+    "productGroup": "Herbicides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "24deaster",
+    "name": "2,4-D Easter",
+    "slug": "2-4-d-easter",
+    "productGroup": "Herbicides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "24dsodiumsalt",
+    "name": "2,4-D Sodium Salt",
+    "slug": "2-4-d-sodium-salt",
+    "productGroup": "Herbicides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "azoxystrobin",
+    "name": "Azoxystrobin",
+    "slug": "azoxystrobin",
+    "productGroup": "Fungicides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration",
+        "remarks": "Packaging Type"
+    }
+},
+{
+    "id": "carbendazim",
+    "name": "Carbendazim",
+    "slug": "carbendazim",
+    "productGroup": "Fungicides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "cartap",
+    "name": "Cartap",
+    "slug": "cartap",
+    "productGroup": "Insecticides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "chlorantraniliprole",
+    "name": "Chlorantraniliprole",
+    "slug": "chlorantraniliprole",
+    "productGroup": "Insecticides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "chlorpyrifos",
+    "name": "Chlorpyrifos",
+    "slug": "chlorpyrifos",
+    "productGroup": "Insecticides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "clodinafop",
+    "name": "Clodinafop",
+    "slug": "clodinafop",
+    "productGroup": "Herbicides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "cypermethrin",
+    "name": "Cypermethrin",
+    "slug": "cypermethrin",
+    "productGroup": "Insecticides",
+    "pricingAttributeAliasNameMap": {}
+},
+{
+    "id": "difenoconazole",
+    "name": "Difenoconazole",
+    "slug": "difenoconazole",
+    "productGroup": "Fungicides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration",
+        "remarks": "Packaging Type"
+    }
+},
+{
+    "id": "emamectinbenzoate",
+    "name": "Emamectin Benzoate",
+    "slug": "emamectin-benzoate",
+    "productGroup": "Biopharmaceuticals",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "fipronil",
+    "name": "Fipronil",
+    "slug": "fipronil",
+    "productGroup": "Insecticides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration",
+        "remarks": "Packaging Type"
+    }
+},
+{
+    "id": "glyphosate",
+    "name": "Glyphosate",
+    "slug": "glyphosate",
+    "productGroup": "Herbicides",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Packaging Type",
+        "productType": "Concentration",
+        "remarks": "Packaging Type"
+    }
+},
+{
+    "id": "hexaconazole",
+    "name": "Hexaconazole",
+    "slug": "hexaconazole",
+    "productGroup": "Fungicides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration",
+        "remarks": "Packaging Type"
+    }
+},
+{
+    "id": "imidacloprid",
+    "name": "Imidacloprid",
+    "slug": "imidacloprid",
+    "productGroup": "Insecticides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration",
+        "remarks": "Packaging Type"
+    }
+},
+{
+    "id": "mancozeb",
+    "name": "Mancozeb",
+    "slug": "mancozeb",
+    "productGroup": "Fungicides",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Packaging Type",
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "metribuzin",
+    "name": "Metribuzin",
+    "slug": "metribuzin",
+    "productGroup": "Herbicides",
+    "pricingAttributeAliasNameMap": {
+        "additionalParameters": "Packaging Type",
+        "productType": "Concentration"
+    }
+},
+{
+    "id": "paraquat",
+    "name": "Paraquat",
+    "slug": "paraquat",
+    "productGroup": "Herbicides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration",
+        "remarks": "Packaging Type"
+    }
+},
+{
+    "id": "pendimethalin",
+    "name": "Pendimethalin",
+    "slug": "pendimethalin",
+    "productGroup": "Herbicides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration",
+        "remarks": "Packaging Type"
+    }
+},
+{
+    "id": "pymetrozine",
+    "name": "Pymetrozine",
+    "slug": "pymetrozine",
+    "productGroup": "Insecticides",
+    "pricingAttributeAliasNameMap": {
+        "productType": "Concentration",
+        "remarks": "Packaging Type"
+    }
+},
+}
